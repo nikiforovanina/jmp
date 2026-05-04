@@ -1,0 +1,416 @@
+2 Verzeichnisse
+2.3 Alphabetisches Verzeichnis der Wahlbewerber
+Bewerber
+Name, Vorname(n)
+Geburtsjahr
+Partei
+im
+Wahlkreis
+auf Landesliste
+Land
+Platz
+Leißner, Dirk
+Lembcke, Birka Bettina
+Lemke, Helmut
+Lemke, Michael
+1970
+FREIE WÄHLER
+1961
+CDU
+1942
+RENTNER
+005
+555
+ST
+014
+SH
+020
+SH
+001
+1968
+GRÜNE
+030
+NI
+016
+Lemke, Steffi
+1968
+GRÜNE
+070
+ST
+001
+Lemme, Steffen-Claudio
+1965
+SPD
+191
+TH
+003
+Lengerich van, Holger
+1972
+PIRATEN
+219
+BY
+016
+Lengsfeld, Philipp David
+1972
+CDU
+075
+BE
+008
+Lenkert, Ralph
+1967
+DIE LINKE
+194
+TH
+002
+Lenz, Dr. Andreas
+1981
+CSU
+214
+BY
+028
+Lenz, Karl-Heinz
+Lenz, Ronny
+Lenze, Enno
+Lenzen, Charlotte
+Lenzen, Katharina
+Leonhard, Dr. Melanie
+Leonhard, Gino
+1953
+AfD
+SH
+017
+1985
+AfD
+ST
+014
+1982
+PIRATEN
+BE
+008
+1956
+DIE LINKE
+025
+1965
+PIRATEN
+089
+1977
+SPD
+HH
+007
+1972
+FDP
+015
+MV
+005
+Leopold, Lars
+1977
+DIE LINKE
+048
+NI
+008
+Leopold, Sabine
+1958
+MLPD
+NW
+011
+Leppkes, Tobias
+1983
+PIRATEN
+111
+Lerchenfeld Graf von und zu, Philipp
+1952
+CSU
+233
+BY
+029
+Leschowski, Frank
+1968
+FDP
+141
+NW
+059
+Leucht, Maximilian Benjamin
+1979
+PARTEI DER VERNUNFT
+222
+BY
+004
+Leue-Köruglu, Christiane
+1977
+BIG
+NW
+003
+Leutert, Michael Gerhard
+1974
+DIE LINKE
+162
+SN
+008
+Leutheusser-Schnarrenberger, Sabine
+1951
+FDP
+224
+BY
+001
+Leutner, Gerd
+1958
+Bündnis 21/RRP
+BY
+009
+Levante, Dr. Tilo
+1962
+FDP
+282
+BW
+030
+Lewis, Christopher Gene
+1945
+BÜSo
+HE
+003
+Leyen von der, Dr. Ursula
+1958
+CDU
+042
+NI
+001
+Lezius, Antje
+1960
+CDU
+202
+RP
+012
+Lichdi, Johannes
+1964
+GRÜNE
+155
+SN
+004
+Licht, Hans-Jürgen
+1972
+SPD
+NI
+057
+Lieb, Robert
+1963
+REP
+BY
+012
+Liebe, Luda A.
+1952
+FREIE WÄHLER
+204
+Liebenow, Fritz Kurt
+1949
+NPD
+085
+BE
+007
+Liebhardt, Bernd Wolfgang
+1977
+CSU
+BY
+066
+Liebich, Stefan
+1972
+DIE LINKE
+076
+BE
+004
+Liebing, Ingbert
+1963
+CDU
+002
+SH
+005
+Liebl, Georg
+1947
+DIE LINKE
+249
+BY
+016
+Liebram, Sebastian
+1990
+FDP
+HH
+003
+Liedgens, André
+1971
+PARTEI DER VERNUNFT
+NW
+005
+Liehr, Heinz
+1975
+FDP
+254
+BY
+018
+Lierse, Lore
+1955
+NPD
+059
+BB
+006
+Liesendahl, Anna-Verena
+1988
+pro Deutschland
+BE
+002
+Liesendahl, Ursula
+1959
+pro Deutschland
+ST
+002
+Lietz, Arne
+1976
+SPD
+070
+ST
+007
+Lietz, Matthias
+1953
+CDU
+016
+MV
+003
+Lill, Karen
+1958
+FDP
+RP
+026
+Lillge, Dr. Wolfgang
+1950
+BüSo
+081
+BE
+003
+Linde, Marc
+1986
+REP
+BB
+002
+Lindemann, David
+1977
+SPD
+299
+Lindemann, Lars Friedrich
+1971
+FDP
+080
+BE
+002
+Lindemann, Thomas
+1980
+NPD
+070
+ST
+008
+Linden, André
+1969
+AfD
+HE
+014
+Lindenberg, Nadine
+1983
+PIRATEN
+001
+Lindenblatt, Gerd
+1945
+PIRATEN
+077
+Lindholz, Andrea
+1970
+CSU
+247
+BY
+020
+Lindlacher, Franz
+1954
+DIE LINKE
+225
+<
+Lindner, Dr. Frank Martin
+1964
+FDP
+079
+BE
+001
+Lindner, Dr. Tobias
+1982
+GRÜNE
+212
+RP
+002
+Lindner, Edeltraud
+1943
+Volksabstimmung
+NW
+007
+Lindner, Sebastian
+1986
+SPD
+HE
+043
+Link, Christiana
+1958
+MLPD
+NW
+010
+Link, Dr. Manfred
+1941
+Bündnis 21/RRP
+253
+BY
+001
+Link, Maria
+1947
+Bündnis 21/RRP
+BY
+010
+Link, Michael Georg
+1963
+FDP
+267
+BW
+004
+Linnemann, Dr. Carsten
+1977
+CDU
+137
+Linnert, Patrick
+1985
+PIRATEN
+245
+BY
+005
+Lips, Patricia
+1963
+CDU
+187
+HE
+011
+Lischka, Burkhard
+1965
+SPD
+069
+ST
+001
+Listemann, Carmen
+1961
+SPD
+189
+TH
+006
+Lister, Manfred
+1960
+FDP
+169
+HE
+017
+Lockfisch, Klemens
+1961
+NPD
+265
+Informationen des Bundeswahlleiters,
+307
+Bundestagswahl 2013, Sonderheft Wahlbewerber

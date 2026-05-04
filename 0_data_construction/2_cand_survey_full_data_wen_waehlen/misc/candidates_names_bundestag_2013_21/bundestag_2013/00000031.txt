@@ -1,0 +1,111 @@
+1 Tabellen
+1.7 Anzahl der Kandidaten nach Altersgruppen und Parteien
+
+Bewerber
+davon in den Altersgruppen
+50-54
+55-59
+60-64
+70-74
+75-79
+80 und mehr
+65-69
+Jahren
+8
+1
+1
+9
+1
+3
+IINI
+11
+W
+Partei
+(i = insgesamt,
+z = zusammen,
+w= weiblich)
+BIG
+Z
+pro Deutschland
+W
+Z
+DIE RECHTE
+W
+W
+N3
+Nichtwähler
+Z
+DIE FRAUEN
+5
+1
+3
+W
+44
+44
+36
+20
+7
+FREIE WÄHLER
+6
+5
+7
+2
+1
+W
+1
+21
+8
+5
+1
+1
+1
+Z
+VERNUNFT
+W
+Die PARTEI
+W
+Z
+B
+W
+11
+Z
+BGD
+W
+NS
+W
+W
+NS
+DKP
+NEIN!
+Z
+Wählergruppen/
+-
+W
+Einzelbewerber
+50
+17 i
+Insgesamt
+7
+6
+W
+41
+21
+35
+127
+27
+11
+15
+12
+1
+-
+1
+640
+561
+433
+204
+205
+177
+107
+Informationen des Bundeswahlleiters,
+29
+Bundestagswahl 2013, Sonderheft Wahlbewerber

@@ -1,0 +1,2 @@
+"year","target","penalty","mixture","cv_rmse","cv_rsq","n_train_rows","selected_at"
+2017,"anti_elite_score",0.0494171336132383,1,0.420506401986177,0.630561163293843,311,"2026-05-02 17:10:45"

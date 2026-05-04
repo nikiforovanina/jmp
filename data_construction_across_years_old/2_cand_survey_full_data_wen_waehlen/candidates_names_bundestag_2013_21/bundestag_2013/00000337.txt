@@ -1,0 +1,400 @@
+2 Verzeichnisse
+2.3 Alphabetisches Verzeichnis der Wahlbewerber
+Bewerber
+Name, Vorname(n)
+Geburtsjahr
+Partei
+im
+Wahlkreis
+auf Landesliste
+Land
+Platz
+Wengle, Brigitte Sophie
+1949
+REP
+BY
+016
+Wengle, Hammo Wolfgang
+1946
+REP
+BY
+042
+Wennemann, Klaus-Peter
+1957
+FDP
+046
+NI
+010
+Wensiersky von, Heinz Georg
+1951
+DIE LINKE
+031
+Wenzel, Birgit
+1967
+PIRATEN
+211
+Wenzel, Eric
+1974
+FREIE WÄHLER
+£2
+RP
+013
+RP
+021
+Wenzelis, Ilka Daniela
+1978
+DIE LINKE
+010
+Werlberger, Renate
+1955
+NPD
+220
+Werner, Britta
+1966
+PIRATEN
+206
+RP
+014
+Werner, Karsten
+Werner, Katrin
+Werner, Liss
+Werner, Martina
+Werner, Stefan
+Werner, Tim Christian
+Wernicke, Rainer Kurt
+Werwigk, Dr. Matthias
+Wesche, Elke
+1984
+BüSo
+153
+1973
+DIE LINKE
+204
+RP
+002
+1974
+Die PARTEI
+BE
+005
+1969
+Die PARTEI
+HE
+007
+1980
+pro Deutschland
+221
+BY
+001
+1972
+Die PARTEI
+HE
+011
+1962
+GRÜNE
+TH
+010
+1951
+FDP
+259
+BW
+033
+1948
+SPD
+NI
+056
+Wesener, Gudrun
+1959
+MLPD
+SN
+007
+Wesener, Tom
+1993
+FDP
+085
+Westarp Graf von, Gustav Wolf Viktor Asche
+1948
+FREIE WÄHLER
+013
+MV
+002
+Wester, Horst Peter
+1964
+Tierschutzpartei
+BY
+004
+Wester, Sagitta Barbara
+1982
+MLPD
+NW
+008
+Westermann, Ingo
+1964
+FDP
+146
+NW
+040
+Westermayer, Waldemar
+1953
+CDU
+BW
+018
+Westerwelle, Dr. Guido
+Westphal, Bernd
+Wett, Dr. Norbert
+Wetzel, Dr. Hans-Peter
+Wetzel, Sabine
+Wetzel, Sarah
+1961
+FDP
+096
+NW
+001
+1960
+SPD
+048
+NI
+021
+1964
+CDU
+168
+HE
+021
+1950
+FDP
+293
+BW
+023
+1964
+GRÜNE
+068
+ST
+003
+1986
+GRÜNE
+BY
+P
+049
+Wever, Melanie
+1967
+AfD
+027
+Weyerich, Mathias
+1987
+NPD
+207
+Whittaker, Kai
+1985
+CDU
+273
+Wibbeke, Martin
+1989
+NPD
+137
+Wichtel, Heinz Peter
+1949
+CDU
+185
+HE
+Wickert, Martin Arnim Friedel
+1981
+Die PARTEI
+HB
+18
+1
+1
+009
+004
+Wicklein, Andrea Meta
+1958
+SPD
+061
+BB
+004
+Widmann-Mauz, Annette
+1966
+CDU
+290
+BW
+004
+Wiechmann, Steffen
+1976
+Anderer KWV
+014
+Wiegand, Wolf Achim
+1954
+FREIE WÄHLER
+019
+HH
+001
+Wiegenstein, Daniel Alexander
+1958
+MLPD
+069
+ST
+008
+Wieland-Bräutigam, Angela
+1969
+FREIE WÄHLER
+TH
+010
+Wiemer, Eva Margarete
+1954
+DIE LINKE
+182
+HE
+011
+Wiemer, Tim
+1992
+AfD
+188
+HE
+009
+Wiertz, Sven
+1975
+SPD
+103
+NW
+033
+Wieschke, Patrick David
+1981
+NPD
+190
+TH
+001
+Wieschollek, Fabian
+1994
+Die PARTEI
+NW
+013
+Wiese, Dirk
+1983
+SPD
+147
+NW
+025
+Wiese, Franz Josef
+1952
+AfD
+BB
+012
+Wiese, Heinz
+1945
+CDU
+BW
+011
+Wiesemann-Käfer, Ulla
+1959
+SPD
+RP
+030
+Wiesendahl, Sebastian
+1988
+PIRATEN
+130
+Wiest, Claudia
+1967
+ÖDP
+233
+BY
+001
+Wiest, Susanne
+1967
+PIRATEN
+015
+MV
+001
+Wiethüchter, Volker
+1964
+AfD
+002
+SH
+011
+Wiggershaus, Dr. Norbert
+1939
+CDU
+BW
+042
+Wilde, Dr. Frank-Eberhard
+1937
+ÖDP
+TH
+005
+Wildenauer, Benjamin Raimund
+1985
+PIRATEN
+248
+BY
+024
+Wilhelm, Jens Simon
+1991
+NPD
+201
+Wilke, Otto
+1937
+FDP
+HE
+036
+c
+Wille, Albert
+1954
+NPD
+025
+Wille, Roswitha
+1958
+RENTNER
+HH
+006
+Willke, Carl Theo Antonin
+1988
+Die PARTEI
+080
+BE
+014
+Willsch, Klaus-Peter
+1961
+CDU
+178
+HE
+015
+Wilms, Dr. Valerie
+1954
+GRÜNE
+007
+SH
+003
+Wilzius, Pascal
+1981
+NPD
+RP
+010
+Windisch, Heiko
+1969
+PIRATEN
+189
+Wingert, Justus
+1988
+FREIE WÄHLER
+284
+Winhard, Claus Manfred
+1966
+AfD
+178
+Wink, Steven
+1984
+FDP
+211
+RP
+011
+Winkelmann, Hans Peter
+1964
+PIRATEN
+125
+Winkelmeier-Becker, Elisabeth
+1962
+CDU
+097
+NW
+006
+Informationen des Bundeswahlleiters,
+335
+Bundestagswahl 2013, Sonderheft Wahlbewerber

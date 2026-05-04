@@ -1,0 +1,208 @@
+1 Tabellen
+1.2 Anzahl der zugelassenen Landeslistenbewerber nach Parteien und Ländern
+
+Partei
+(i = insgesamt,
+z = zusammen,
+m = männlich,
+w = weiblich)
+NEW
+37
+18
+19
+5
+14
+18
+5
+Nord-
+rhein-
+Westfalen
+Rhein-
+Sachsen
+Hessen
+Thüringen
+land-
+Bayern
+Pfalz
+Baden-
+Württem-
+berg
+Saarland
+Bewerber
+615
+III 752
+217
+752 III
+19
+11
+8
+12
+11
+1
+217
+282
+20
+18
+981
+44
+41
+11
+8
+3
+5
+212
+551
+4
+1
+3
+2
+752
+95
+DIE VIOLETTEN
+MLPD
+NEW
+NEW
+541
+10
+888
+642
+Volksabstimmung
+NEW
+PSG
+NEW
+27
+22
+223
+42
+35
+28
+21
+5
+7
+762
+7
+6
+1 W
+NEW
+Go
+AfD
+m
+10
+BIG
+532
+541
+14
+12
+42
+11
+2
+202
+10
+13
+1
+332
+15
+12
+284
+82
+5
+4
+5
+10
+441
+m
+NEW
+10
+43
+26
+38
+24
+5
+2
+43
+292
+21
+19
+541
+pro Deutschland
+DIE RECHTE
+NEW
+NEW
+18
+882
+20
+11
+11
+4
+4
+441
+DIE FRAUEN
+FREIE WÄHLER
+Nichtwähler
+VERNUNFT
+m
+NEW
+NEW
+NEW
+NEW
+53
+44
+17
+15
+9
+752
+Die PARTEI
+525
+138
+264
+131
+245
+583
+391
+98 i
+Insgesamt
+388
+100
+175
+90
+175
+413
+278
+64 m
+137
+38
+89
+41
+70
+170
+113
+34
+W
+Landeslisten
+22
+12
+15
+12
+14
+20
+20
+20
+12
+Insgesamt
+652
+1
+13
+13
+Bewerber je Landesliste im Durchschnitt
+23,9
+11,5
+17,6
+10,9
+17,5
+29,2
+19,6
+8,2
+Insgesamt
+Informationen des Bundeswahlleiters,
+15
+Bundestagswahl 2013, Sonderheft Wahlbewerber

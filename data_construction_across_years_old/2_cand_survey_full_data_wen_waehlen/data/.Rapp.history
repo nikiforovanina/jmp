@@ -1,0 +1,2 @@
+load("/Users/ninanikiforova/Desktop/data_construction/2_cand_survey_full_data_wen_waehlen/data/cand21_scored_full_shrunk.Rdata")
+load("/Users/ninanikiforova/Desktop/жмп/data_construction/2_cand_survey_full_data_wen_waehlen/data/cand13_scored_full_shrunk.Rdata")

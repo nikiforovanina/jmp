@@ -1,0 +1,387 @@
+2 Verzeichnisse
+2.3 Alphabetisches Verzeichnis der Wahlbewerber
+Name, Vorname(n)
+Deutschkämer, Dennis
+Deutschmann, Reiner Peter
+Dewitz von, Susanna
+Di Leo, Frank
+Diaby, Dr. Karamba
+Dick, Bernhard Dietrich
+Dickow, Claus-Joachim
+Diebold, Gudrun
+Diefenbach, Beatrix
+Diem, Sven
+Diemer, Florian
+Diemer, Timo
+Dierdorf, Bernhard
+Dierkes-Morsy, Ulrike
+Dierks, Carsten
+Diersen, Josef
+Geburtsjahr
+Bewerber
+Partei
+im
+Wahlkreis
+auf Landesliste
+Land
+Platz
+1988
+PIRATEN
+133
+1953
+FDP
+156
+SN
+004
+1973
+PIRATEN
+276
+1967
+Anderer KWV
+083
+1961
+SPD
+072
+1958
+SPD
+55
+ST
+003
+SL
+014
+1965
+FDP
+HH
+007
+1956
+ÖDP
+292
+BW
+011
+1964
+AfD
+HE
+012
+1991
+NPD
+236
+1981
+Die PARTE!
+BE
+037
+1975
+NPD
+117
+1946
+GRÜNE
+1
+006
+1975
+DIE LINKE
+239
+BY
+007
+1957
+FDP
+RP
+023
+1959
+GRÜNE
+032
+Dietrich, Dr. Jens
+1965
+AfD
+192
+Dietrich, Matthias
+1971
+ÖDP
+289
+Dietrich, Rolf
+1944
+NPD
+072
+ST
+009
+Dilcher, Esther Anneliese
+1965
+SPD
+HE
+024
+Dilger, Prof. Dr. Georg Alexander Ludwig
+1968
+AfD
+142
+NW
+001
+Dillschneider, Dirk
+1974
+CDU
+SL
+007
+Dindoyal, Randhir
+1974
+FDP
+220
+BY
+017
+Dinges-Dierig, Alexandra
+1953
+CDU
+011
+SH
+003
+Dinler, Arzu
+1976
+BIG
+BW
+001
+Dippel, Konrad Willibald
+1971
+Anderer KWV
+235
+Ditsche, Frank
+1966
+Anderer KWV
+077
+Dittmann, Jens
+1965
+pro Deutschland
+Dittmar, Sabine
+1964
+SPD
+248
+Dittrich, Christoph
+1989
+Die PARTEI
+BBBB
+BY
+005
+BY
+012
+BE
+021
+Djelassi, Mathias Moncef
+1980
+FREIE WÄHLER
+045
+Djir-Sarai, Bijan
+1976
+FDP
+108
+NW
+007
+Dobrindt, Alexander
+1970
+CSU
+226
+BY
+004
+Dobrindt, Klaus
+1966
+ÖDP
+NW
+021
+Dobusch, Gabriele
+1958
+SPD
+HH
+011
+Dochan, Gisela
+1931
+REP
+BE
+005
+Döge, Ursula
+1947
+Bündnis 21/RRP
+NW
+005
+Dölle, Holger
+1969
+Die PARTEI
+BE
+042
+Dörflinger, Thomas
+1965
+CDU
+288
+Döring, Dagmar
+1960
+FDP
+179
+HE
+010
+Döring, Patrick
+1973
+FDP
+042
+NI
+002
+Döring, Waltraud
+1952
+ÖDP
+TH
+013
+Döring, Wilfried
+1953
+ÖDP
+TH
+018
+Dörlitz, Heinz Helmut
+1963
+NPD
+021
+HH
+006
+Dörmann, Martin
+1962
+SPD
+093
+NW
+061
+Dörner, Dr. Wolfgang-Marc
+1960
+AfD
+BY
+026
+Dörner, Katja
+1976
+GRÜNE
+096
+NW
+005
+Dörner, Lars
+1982
+GRÜNE
+165
+Dörhöfer, Doris Anna Wilhelmine
+1953
+DIE LINKE
+251
+Dörr, Johannes Markus
+1976
+ÖDP
+NW
+009
+Dött, Marie-Luise
+1953
+CDU
+117
+NW
+009
+Dogan, Abdülselam
+1974
+GRÜNE
+047
+Dogan, Sülmez
+1975
+GRÜNE
+055
+HB
+002
+Domicke, Dirk
+1967
+AfD
+072
+ST
+004
+Dominas, Marianne
+1961
+ÖDP
+125
+NW
+017
+Domke, Hannes
+1986
+Die PARTEI
+BE
+027
+Domke, René
+1972
+FDP
+013
+MV
+002
+Domscheit-Berg, Anke Margarete
+1968
+PIRATEN
+058
+BB
+002
+Donth, Michael
+1967
+CDU
+289
+Dormuth, Dennis
+1980
+NPD
+028
+Dorn, Detlef
+1954
+FREIE WÄHLER
+077
+Dorn, Dr. Dr. Matthias Rudolf Helmut
+1954
+AfD
+041
+NI
+006
+Dornhausen, Michael
+1972
+ÖDP
+265
+Dornheim, Laura
+1985
+PIRATEN
+BE
+006
+Dorsch, Dr. Nikolaus Theodor
+1958
+SPD
+195
+TH
+009
+Dorscht, Peter
+1961
+FREIE WÄHLER
+236
+BY
+002
+Dott, Dr. Manfred
+1940
+PIRATEN
+073
+ST
+005
+Dotten, Horst
+1957
+MLPD
+119
+Doughan, Sina
+1987
+GRÜNE
+241
+BY
+015
+Dowe, Markus
+1969
+DIE LINKE
+141
+NW
+025
+Drage van, Alexander
+1980
+REP
+BY
+005
+Drechsel, Edgar Tristan
+1955
+PIRATEN
+165
+Drechsel, Jörg
+1956
+DIE LINKE
+269
+Informationen des Bundeswahlleiters,
+285
+Bundestagswahl 2013, Sonderheft Wahlbewerber

@@ -1,0 +1,179 @@
+1 Tabellen
+1.8 Anzahl der Kandidaten nach Berufsbereichen
+
+Bewerber
+davon sonstige Arbeitskräfte
+darunter
+davon nicht erwerbstätig
+Partei
+(i = insgesamt,
+z = zusammen,
+w = weiblich)
+18
+11
+4
+16
+Geistes- und
+Lehrer/
+Lehrerinnen
+naturwissen-
+schaftliche
+Berufe,a.n.g.
+Berufe in
+der Seelsorge
+zusammen
+mit (noch) nicht
+bestimmtem Beruf,
+z.B.
+Auszubildende,
+ohne nähere
+Schüler/
+Schülerinnen,
+Tätigkeits-
+angabe,
+Studenten/
+Studentinnen
+Rentner,
+Pensionäre,
+Hausfrauen,
+Arbeitssuchende
+Praktikanten
+z.B.
+Selbstständige
+0.Ä.
+0.Ä.
+noch davon Dienstleistungsberufe
+darunter
+31
+52
+61
+42
+19
+33
+6
+13
+30
+59
+12
+28
+17
+29
+2
+7
+53
+11
+71
+1
+62
+18
+31
+3
+7
+18
+28
+57
+11
+29
+42
+11
+1
+1
+18
+31
+18
+4
+8
+3
+1
+15
+51
+12
+21
+2
+1
+16
+3
+1
+55
+31
+10
+4
+3
+3
+10
+8
+I
+11
+22
+8
+20
+020
+42
+14
+21
+15
+4
+81
+29
+9
+41
+z CDU
+7
+75
+z SPD
+83
+3
+15
+z FDP
+2 DIE LINKE
+55
+62
+Z GRÜNE
+Z CSU
+48
+15
+51
+z PIRATEN
+32 z NPD
+2
+5
+62
+11
+11
+42
+z Tierschutzpartei
+29
+Z REP
+6
+22
+10
+21
+Z ÖDP
+Z FAMILIE
+32
+NI
+33
+11
+3
+63
+16
+z Bündnis 21/RRP
+Z RENTNER
+81
+21
+z BP
+z PBC
+72
+z BüSo
+53
+21
+21
+z DIE VIOLETTEN
+z MLPD
+15
+56
+3 I
+z Volksabstimmung
+Informationen des Bundeswahlleiters,
+35
+Bundestagswahl 2013, Sonderheft Wahlbewerber

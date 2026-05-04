@@ -1,0 +1,394 @@
+2 Verzeichnisse
+2.3 Alphabetisches Verzeichnis der Wahlbewerber
+Bewerber
+Name, Vorname(n)
+Geburtsjahr
+Partei
+im
+Wahlkreis
+auf Landesliste
+Land
+Platz
+Kmietczyk, Dieter
+Knapp, Franz Jochen
+Knebel, Daniel
+Knies, Hans-Horst
+Knobloch, Michael
+1949
+GRÜNE
+073
+1955
+AfD
+257
+1984
+NPD
+179
+1954
+DIE LINKE
+172
+1977
+NPD
+NI
+006
+Knoche, Matthias
+1961
+GRÜNE
+171
+HE
+Knoerig, Axel
+1967
+CDU
+033
+N
+008
+013
+Knopek, Dr. Lutz
+1958
+FDP
+053
+Knopf, Sebastian
+1977
+DIE LINKE
+207
+Knott, Thorsten
+1974
+FDP
+098
+NW
+047
+Knotte, Heiko
+1973
+PIRATEN
+099
+Knuffke, Frank
+1965
+NPD
+062
+BB
+007
+Knur, Sabine
+1964
+AFD
+277
+BW
+015
+Kober, Pascal
+1971
+FDP
+289
+BW
+007
+Kocak, Ali
+1970
+BIG
+BW
+006
+Kocak, Yilmaz
+1968
+BIG
+BW
+010
+Koch, Gerrit
+1969
+FDP
+011
+SH
+010
+Koch, Harald
+1954
+DIE LINKE
+074
+Koch, Hildegunde
+Koch, Klaus
+Koch, Martina
+Koch, Matthias
+1956
+ÖDP
+TH
+022
+1959
+FDP
+RP
+022
+1968
+CDU
+SH
+022
+1960
+NPD
+153
+Koch, Sandra
+1971
+SPD
+SL
+013
+Koch, Stefan
+1966
+NPD
+009
+SH
+005
+Koczy, Ute Maria Christine
+1961
+GRÜNE
+135
+NW
+015
+Köhler, Eberhard
+1938
+REP
+261
+Köhler, Florian
+1983
+PIRATEN
+BW
+023
+Köhler, Frank Herbert Karl
+1961
+REP
+212
+Köhler, Heiko
+1974
+NPD
+271
+BW
+005
+Köhler, Jens
+1965
+Anderer KWV
+136
+Köhler, Klaus Dieter
+1961
+DIE LINKE
+270
+Köhler-Hohlfeld, Torsten
+1963
+FDP
+192
+TH
+002
+Kölblin, Karl
+1949
+REP
+BW
+016
+Kölle, Christian Traugott
+1952
+MLPD
+HH
+006
+Köllner, Martina Katharina
+1963
+SPD
+HE
+022
+Kölmel, Bernd
+1958
+AfD
+273
+BW
+001
+Kömpel, Birgit
+1967
+SPD
+174
+HE
+014
+König, Dagmar
+1955
+CDU
+BE
+012
+König, Hans-Peter
+König, Jörn Harald
+König, Roland
+1957
+PIRATEN
+198
+1967
+AfD
+042
+NI
+010
+1966
+FDP
+296
+SL
+002
+König, Uta
+1975
+FREIE WÄHLER
+RP
+019
+Königer, Steffen
+1972
+AfD
+BB
+005
+Koenigs, Thomas
+1944
+GRÜNE
+173
+HE
+004
+Köppen, Daniel
+1984
+BüSo
+075
+BE
+009
+Koeppen, Jens
+1962
+CDU
+057
+BB
+003
+Körber, Carsten
+1979
+CDU
+165
+SN
+005
+Körber, Sebastian
+1980
+FDP
+236
+BY
+006
+Körndl, Georg
+1958
+BüSo
+BY
+008
+Körner, Dr. Dr. Joachim
+1947
+AfD
+022
+Körner, Karlheinz
+1953
+FREIE WÄHLER
+ST
+015
+Körner, Kerstin
+1971
+CDU
+SN
+016
+Körner, Moritz
+1990
+FDP
+104
+NW
+027
+Körner, Roland
+1972
+FAMILIE
+SL
+001
+Körner, Stefan Herbert
+1968
+PIRATEN
+232
+BY
+004
+Körper, Fritz Rudolf
+1954
+SPD
+202
+RP
+012
+Köster, Rainer
+1948
+DIE LINKE
+104
+Köster, Stefan
+1973
+NPD
+013
+Köster-Flashar, Martina Paola
+1962
+GRÜNE
+NW
+033
+Kofbinger, Anja
+1960
+GRÜNE
+082
+BE
+012
+Kofler, Dr. Bärbel
+1967
+SPD
+225
+BY
+008
+Kohde-Kilsch, Claudia
+1963
+DIE LINKE
+296
+Kohl, Hartwig
+1956
+FREIE WÄHLER
+246
+BY
+013
+Kohlert, Arno
+1955
+ÖDP
+NW
+020
+Kohlmann, Sascha
+1975
+CDU
+RP
+020
+Kohlmorgen, Karin
+1961
+DIE LINKE
+009
+Kohls, Gerriet Hermann
+1959
+FREIE WÄHLER
+043
+NI
+006
+Kokott, Manuela
+1968
+NPD
+065
+BB
+004
+Kolb, Dr. Heinrich Leonhard
+1956
+FDP
+187
+HE
+001
+Kolb, Marianne
+1958
+MLPD
+BW
+008
+Kolb, Michael
+1974
+CDU
+BW
+046
+Kolb, Rainer
+1957
+PIRATEN
+115
+Kolb, Sarina
+Kolbe, Daniela
+1992
+CDU
+BW
+024
+1980
+SPD
+152
+SN
+004
+Informationen des Bundeswahlleiters,
+303
+Bundestagswahl 2013, Sonderheft Wahlbewerber

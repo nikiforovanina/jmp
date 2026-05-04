@@ -1,0 +1,392 @@
+2 Verzeichnisse
+2.3 Alphabetisches Verzeichnis der Wahlbewerber
+Bewerber
+Name, Vorname(n)
+Geburtsjahr
+Partei
+im
+Wahlkreis
+auf Landesliste
+Land
+Platz
+Rappold, Ernst
+1958
+GRÜNE
+242
+BY
+036
+Rapps, Peter
+1949
+MLPD
+BW
+018
+Raschig, Markus
+1960
+AfD
+BY
+039
+Rathmer, Jörg
+1969
+FDP
+BB
+004
+Ratjen-Damerau, Dr. Christiane
+1954
+FDP
+027
+NI
+007
+Rau, Dr. Eleonore
+1928
+BGD
+157
+Rauch, Matthias
+1990
+FDP
+073
+Rauhut, Stephan
+1974
+CDU
+NW
+060
+Rauhut, Udo
+1967
+DIE LINKE
+264
+Rauschenbach, Michael
+1966
+REP
+BE
+003
+Rauscher, Prof. Dr. Thomas
+1955
+FDP
+223
+BY
+038
+Rawert, Mechthild
+1957
+SPD
+081
+BE
+003
+Rebmann, Kai
+1982
+PBC
+BW
+003
+Rebmann, Stefan
+1962
+SPD
+275
+BW
+015
+Recha, Michael
+1972
+AfD
+037
+NI
+005
+Reck, Dr. Reinhold
+1958
+ŎDP
+215
+BY
+020
+Redepenning, Harald
+1957
+SPD
+154
+SN
+014
+Reder, Klaus-Dieter
+1970
+CDU
+NI
+042
+Redöhl, Bettina
+1965
+FREIE WÄHLER
+041
+Regehly, Imanuel
+Rehberg, Eckhardt
+1923
+NPD
+BE
+010
+1954
+CDU
+017
+MV
+002
+Reher, Joel
+1978
+Anderer KWV
+023
+Rehfeld, Moritz
+1986
+PIRATEN
+RP
+011
+Rehm, Prof. Dr. Helmut
+1951
+FREIE WÄHLER
+247
+BY
+030
+Rehmann, Jens
+1966
+ÖDP
+ST
+001
+Rehmet, Dr. Roland Wolfgang
+1966
+FDP
+HH
+009
+Rehse, Mareike
+1985
+GRÜNE
+SH
+007
+Reiche, Katherina Birgitt
+1973
+CDU
+061
+BB
+002
+Reiche, Sebastian
+1983
+NPD
+192
+Reiche, Uwe
+1961
+FREIE WÄHLER
+TH
+011
+Reichel, Dr. Markus Alexander
+1968
+CDU
+SN
+013
+Reichelt, Verony
+1979
+FDP
+051
+NI
+012
+Reichenbach, Gerold Rudolf
+1953
+SPD
+184
+HE
+005
+Reichert, Holger
+1972
+PIRATEN
+279
+Reichhardt, Johannes
+1985
+PIRATEN
+238
+Reidel, Christian
+1966
+PIRATEN
+229
+BY
+010
+Reifschneider-Groß, Brigitte Helene
+1951
+FDP
+HE
+020
+Reimann, Dr. Carola
+1967
+SPD
+050
+NI
+012
+Reimann, Dr. Dorit
+1949
+Tierschutzpartei
+BY
+007
+Reimer, Bente
+1977
+SPD
+SH
+014
+Rein, Harry
+1963
+Anderer KWV
+133
+Rein, Susanne
+1961
+CDU
+BW
+049
+Reindl, Rosa Maria
+1966
+ÖDP
+214
+BY
+021
+Reinecke, Renate
+1953
+SPD
+HE
+034
+Reinemund, Dr. Birgit
+1959
+FDP
+275
+BW
+010
+Reinhardt, Ingrid
+1950
+MLPD
+TH
+002
+Reinhardt, Ralf
+1973
+PIRATEN
+216
+Reinhold, Dr. Kristian
+1958
+FDP
+162
+SN
+005
+Reinhold, Hagen
+1978
+FDP
+014
+MV
+001
+Reinke, Elke
+1958
+DIE LINKE
+068
+ST
+007
+Reinsch, Peter
+1952
+AfD
+ST
+010
+Reipen, Dr. Gernot
+1953
+PIRATEN
+199
+Reisch, Sven
+1984
+GRÜNE
+260
+BW
+024
+Reiser, Ludwig
+1959
+Tierschutzpartei
+BY
+008
+Reiß, Daniel
+1986
+NPD
+266
+Reitmann, Heike
+1964
+pro Deutschland
+RP
+003
+Reitz, Jürgen
+1958
+FREIE WÄHLER
+HE
+005
+Reker, Jara Marit
+1993
+Die PARTEI
+NW
+034
+Remmers, Ingrid Lieselotte
+1965
+DIE LINKE
+123
+NW
+018
+Remmert, Michael
+1959
+GRÜNE
+105
+Renner, Jürgen
+1966
+SPD
+SL
+010
+Renner, Karl-Heinz
+1949
+GRÜNE
+110
+Renner, Martin Erwin
+1954
+AfD
+120
+NW
+007
+Renner, Martina Erika
+1967
+DIE LINKE
+192
+TH
+003
+Renner, Rita
+1958
+MLPD
+ST
+007
+Renner, Wolfgang Jürgen
+1958
+GRÜNE
+064
+BB
+002
+Rentzos, Andreas
+1976
+Anderer KWV
+172
+Resch, Andreas
+1982
+GRÜNE
+HB
+004
+Ressdorf, Werner
+Reuter, Gerhard
+1954
+Anderer KWV
+258
+1963
+NPD
+238
+Richert, Volker
+1969
+CDU
+SN
+018
+Richling, Florian
+1983
+PARTEI DER VERNUNFT
+BW
+010
+Richter, Benjamin
+1983
+B
+083
+Richter, Bernhard
+1943
+ŎDP
+285
+BW
+001
+Informationen des Bundeswahlleiters,
+Bundestagswahl 2013, Sonderheft Wahlbewerber
+318

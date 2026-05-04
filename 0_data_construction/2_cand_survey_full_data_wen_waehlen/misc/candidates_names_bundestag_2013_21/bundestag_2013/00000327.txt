@@ -1,0 +1,398 @@
+2 Verzeichnisse
+2.3 Alphabetisches Verzeichnis der Wahlbewerber
+Name, Vorname(n)
+Get
+Bewerber
+Geburtsjahr
+Partei
+im
+Wahlkreis
+auf Landesliste
+Land
+Platz
+Schubert, Hans-Joachim
+1949
+NPD
+144
+Schubert, Manfred
+1970
+PIRATEN
+193
+TH
+002
+Schubert, Prof. Johann Gottfried Emil
+1931
+REP
+BY
+009
+Schuch-Leitl, Andrea Helga
+1962
+GRÜNE
+BY
+047
+Schuchardt, Rainer
+1950
+FREIE WÄHLER
+008
+SH
+001
+Schüler, Fritz
+1939
+pro Deutschland
+BW
+004
+Schünemann, Christina Anna Sarah
+1986
+Die PARTEI
+HH
+003
+Schünemann, Wolf-Joachim
+1963
+AfD
+BY
+007
+Schürer, Tilman Gregor
+1979
+FDP
+244
+BY
+023
+Schüßler, Claudia
+1967
+SPD
+NI
+044
+Schüßler, Gitta
+Schüßler, Sigrid
+Schütt, Hinrich
+1961
+NPD
+163
+1969
+NPD
+BY
+002
+1976
+FDP
+MV
+009
+Schütz, Annette
+1960
+SPD
+NI
+058
+Schützinger, Jürgen
+1953
+NPD
+286
+BW
+001
+Schützinger, Rudolf
+1982
+NPD
+280
+Schuh, Lore
+1947
+ÖDP
+BW
+024
+Schuhfuß, Marlene
+1980
+Die PARTEI
+HH
+017
+Schuldt, Robert
+1977
+PIRATEN
+MV
+009
+Schulenburg, Dr. Jörg
+Schuler, Selina
+Schulhauser, Kevin
+1969
+PIRATEN
+069
+1992
+PIRATEN
+SL
+003
+S
+1989
+NPD
+195
+Schulte, Karl Stephan
+1963
+DIE LINKE
+130
+Schulte, Klaus Keno Friedrich
+1982
+Die PARTEI
+NW
+003
+Schulte, Michael
+1962
+FDP
+150
+NW
+053
+Schulte, Patrik
+1980
+DIE LINKE
+HB
+004
+Schulte, Peter
+1969
+DIE LINKE
+148
+Schulte, Ursula
+1952
+SPD
+126
+NW
+014
+Schulte-Drüggelte, Bernhard August
+1951
+CDU
+146
+NW
+016
+Schulz, Carmen
+1957
+FDP
+065
+Schulz, Dieter
+1969
+NPD
+139
+NW
+6.
+009
+Schulz, Herbert Heinrich Paul
+1947
+DIE LINKE
+021
+HH
+006
+Schulz, Jens Uwe
+1953
+DIE LINKE
+011
+SH
+008
+Schulz, Jimmy
+1968
+FDP
+222
+BY
+005
+Schulz, Mathias
+1980
+BüSo
+082
+BE
+011
+Schulz, Olaf
+1958
+FREIE WÄHLER
+033
+NI
+010
+Schulz, Rudolf Werner
+1956
+FREIE WÄHLER
+4
+HE
+012
+Schulz, Swen
+1968
+SPD
+078
+BE
+002
+Schulz-Asche, Kordula Anna Paula
+1956
+GRÜNE
+181
+HE
+005
+Schulze, Angelina
+1984
+NPD
+106
+Schulze, Dr. Heiko K. L.
+1954
+PIRATEN
+SH
+001
+Schulze, Dr. Klaus-Peter
+1954
+CDU
+064
+BB
+007
+Schulze, Karl-Heinz
+1955
+MLPD
+MV
+005
+Schulze, Prof. Dr. Joachim
+1952
+GRÜNE
+157
+Schulze, Sebastian Richard
+1976
+AfD
+150
+Schulze, Wolfgang
+1949
+REP
+NW
+007
+Schulze-Hagen, Dr. Alfons
+1952
+CDU
+BW
+048->
+Schumacher, Markus
+1977
+NPD
+141
+Schumacher, Ulrich
+1966
+PIRATEN
+127
+Schumacher, Wolfgang
+1959
+DIE LINKE
+297
+Schumann, Claudia Ilse
+1960
+PIRATEN
+046
+Schumann, Edeltraud
+1960
+MLPD
+ST
+009
+Schumann, Kai
+1982
+Die PARTEI
+NW
+002
+Schummer, Uwe
+1957
+CDU
+111
+NW
+043
+Schunder, Günther
+1953
+FREIE WÄHLER
+295
+BW
+008
+Schupeck, Anna
+1984
+AfD
+261
+BW
+006
+Schurer, Ewald
+1954
+SPD
+214
+BY
+007
+Schurig, Stephan
+1984
+PIRATEN
+072
+ST
+002
+Schusser-Backhaus, Ellen
+1956
+CDU
+HE
+033
+Schuster, Armin
+1961
+CDU
+282
+Schuster, Marina Walburga
+1975
+FDP
+246
+BY
+004
+Schwab, Dr. Martin
+1967
+ÖDP
+BE
+001
+Schwabe, Frank
+1970
+SPD
+121
+NW
+047
+Schwabe, Holger
+1964
+FDP
+086
+Schwalb, Gisela
+1959
+MLPD
+BW
+010
+Schwamen van, Jürgen
+1957
+PIRATEN
+135
+Schwang, Dietrich
+1948
+MLPD
+296
+SL
+001
+Schwanholz, Dr. Martin
+1960
+SPD
+039
+NI
+028
+Schwanke, Benjamin
+1982
+FDP
+HH
+.
+008
+Schwartze, Stefan
+1974
+SPD
+133
+NW
+044
+Schwarz, Andreas
+1965
+SPD
+236
+BY
+019
+Schwarz, Antje
+1951
+FREIE WÄHLER
+ST
+008
+Schwarz, Christian
+1978
+PIRATEN
+BW
+005
+Schwarz, Doris
+1967
+FAMILIE
+SL
+003
+Informationen des Bundeswahlleiters,
+325
+Bundestagswahl 2013, Sonderheft Wahlbewerber

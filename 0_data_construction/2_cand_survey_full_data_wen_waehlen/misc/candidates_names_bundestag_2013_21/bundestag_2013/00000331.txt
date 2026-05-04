@@ -1,0 +1,388 @@
+2 Verzeichnisse
+2.3 Alphabetisches Verzeichnis der Wahlbewerber
+Bewerber
+Name, Vorname(n)
+Stieger, Sandra Yvonne
+Geburtsjahr
+Partei
+im
+Wahlkreis
+auf Landesliste
+Land
+Platz
+1978
+CDU
+ST
+010
+Stier, Dieter
+Stieldorf, Linus Kester
+Stierlin, Frank Joachim
+1995
+FDP
+089
+1964
+CDU
+073
+ST
+005
+1950
+MLPD
+118
+Stigge, Roland
+1978
+DIE LINKE
+218
+Stillig, Daniel
+Stimpfig, Jörg
+Stocker, Christof
+Stockert, Madeleine
+1979
+Die PARTEI
+HH
+012
+1954
+FREIE WÄHLER
+259
+BW
+006
+1961
+ÖDP
+286
+1947
+MLPD
+208
+RP
+001
+Stockhofe, Rita
+1967
+CDU
+122
+NW
+050
+Stockschläger, Hans Joachim
+1959
+FDP
+109
+NW
+032
+Stodt-Kirchholtes, Christiane
+1962
+GRÜNE
+SH
+011
+Stöckert, Manfred
+1951
+PIRATEN
+157
+Stöger, Marco
+1993
+DIE LINKE
+230
+Stöhr, Dr. Brigitte Karoline Doris
+1960
+AfD
+BY
+003
+Stötting, Sven Peter
+1983
+NPD
+116
+Stöver, Mirco
+1976
+Die PARTEI
+HH
+007
+Stöwesand, Edwin Rüdiger Otto
+1961
+CDU
+HE
+038
+Stoll, Matthias
+1965
+PIRATEN
+045
+Stolte, Herbert Wolfgang Dirk
+1963
+Anderer KWV
+168
+Stoltenberg, Peter Ferdinand
+1949
+GRÜNE
+008
+Stolz, André
+1972
+CDU
+HE
+024
+Stoppiera, Yvette
+1979
+GRÜNE
+SL
+002
+Storch von, Beatrix Amelie Ehrengard Eilika
+1971
+AfD
+075
+BE
+002
+Storjohann, Gero
+1958
+CDU
+008
+SH
+004
+Stork, Josef
+1943
+FREIE WÄHLER
+114
+Strack, Walter
+1964
+AfD
+HH
+005
+Stracke, Stephan
+1974
+CSU
+257
+Strässer, Christoph
+1949
+SPD
+129
+NW
+011
+Straßer, Walter
+1952
+PIRATEN
+227
+Straub, Michael
+1959
+GRÜNE
+269
+Straubinger, Max
+1954
+CSU
+230
+Straubinger, Werner
+1967
+CSU
+Strebl, Matthäus
+1952
+CSU
+BBY
+BY
+"
+052
+BY
+035
+1
+Streit, Nancy
+1980
+Tierschutzpartei
+068
+Streitle, Ludwig
+1947
+REP
+256
+Streitle, Sabine
+1977
+REP
+Streng, Maria-Luise
+1957
+FREIE WÄHLER
+.......
+BY
+020
+BY
+014
+NW
+007
+Streng, Robert
+1990
+PIRATEN
+236
+Strengmann-Kuhn, Wolfgang
+1964
+GRÜNE
+185
+HE
+006
+Strenz, Karin
+1967
+CDU
+013
+MV
+005
+Strerath, Christian
+1988
+Die PARTEI
+NW
+039
+Strickner, Gerald
+1953
+BüSo
+223
+BY
+003
+Striess-Grubert, Udo
+1959
+FREIE WÄHLER
+026
+NI
+009
+Strippel, Hans-Jürgen
+1951
+BüSo
+BE
+019
+Stritzl, Thomas
+1957
+CDU
+005
+SH
+010
+Strobl, Thomas
+1960
+CDU
+267
+BW
+005
+Ströbele, Hans-Christian
+1939
+GRÜNE
+083
+Stroedter, Jörg Klaus Hartmut
+1954
+SPD
+077
+Stroman, Hero Jan
+1946
+FREIE WÄHLER
+027
+Strotbek, Lisa
+1986
+FDP
+269
+BW
+012
+Strothmann, Lena
+1952
+CDU
+132
+NW
+018
+Stubbe, Hermann
+1968
+GRÜNE
+128
+NW
+026
+Stubenrauch, Erhard
+1947
+FDP
+248
+BY
+045
+Stuckel-Lotz, Elke Marita
+1948
+GRÜNE
+125
+Stüber, Sabine Ursula
+1953
+DIE LINKE
+057
+BB
+007
+Stübgen, Michael
+1959
+CDU
+065
+BB
+001
+Stück von der, Heidrun
+1944
+DIE LINKE
+NW
+026
+Stürtz, Heinrich
+Stuiber, Alfred
+Stumpp, Margit
+Sturm, Jan
+Sturm, Karsten
+1949
+DIE LINKE
+278
+1980
+FDP
+234
+BY
+035
+1963
+GRÜNE
+270
+BW
+015
+1965
+NPD
+082
+BE
+005
+1966
+AfD
+299
+SL
+002
+Sturn, Timo
+1979
+AfD
+287
+Sünder, Claudia
+1969
+SPD
+270
+BW
+024
+Sünneke, Olaf
+1964
+BüSo
+BY
+011
+Süssig, Arno
+1957
+FREIE WÄHLER
+MV
+006
+Süßmair, Alexander Wilhelm
+1977
+DIE LINKE
+252
+Sütterlin-Waack, Dr. Sabine
+1958
+CDU
+001
+SH
+006
+Suhren, Bodo
+1968
+AfD
+NI
+013
+Summerer, Christa
+1958
+BP
+BY
+005
+Suntheim, Helmut Wilfried
+1962
+FREIE WÄHLER
+251
+BY
+014
+Suntum van, Dorothe
+1963
+AfD
+127
+NW
+034
+Informationen des Bundeswahlleiters,
+329
+Bundestagswahl 2013, Sonderheft Wahlbewerber

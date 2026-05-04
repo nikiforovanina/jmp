@@ -1,0 +1,383 @@
+2 Verzeichnisse
+2.3 Alphabetisches Verzeichnis der Wahlbewerber
+
+Name, Vorname(n)
+Bewerber
+Geburtsjahr
+Partei
+im
+Wahlkreis
+auf Landesliste
+Land
+Platz
+S
+Saathoff, Johann
+Sabah, Adnan
+Sabe, Antje
+Sabin, Denis
+Sachs, Jan
+Sachs, Volker
+1967
+SPD
+024
+NI
+023
+1969
+SPD
+BW
+040
+1967
+ÖDP
+ST
+005
+1984
+PIRATEN
+086
+1989
+FDP
+284
+BW
+014
+1934
+NPD
+173
+HE
+002
+Sänger, Björn
+1975
+FDP
+167
+HE
+003
+Saftekin, Askin
+1967
+BIG
+NW
+007
+Sager, Jens
+1970
+AfD
+SH
+013
+Salamah, Susanne
+1958
+PSG
+BE
+003
+Saleh, Maher
+1958
+BIG
+BW
+007
+Saleh, Sari-Christoph
+1981
+AfD
+082
+Salgert, Marc
+1975
+PIRATEN
+087
+NW
+025
+Salviti-Richter, Johanna
+1949
+pro Deutschland
+RP
+001
+Salzberger, Franz
+1952
+NPD
+230
+Salzer, Sandra
+1979
+FDP
+HE
+033
+Salzmann, Peter Michael
+1979
+FDP
+199
+RP
+017
+Sand, Erich
+1968
+AfD
+BY
+018
+Sander, Bernhard
+1955
+DIE LINKE
+102
+Sander, Friedrich
+1961
+REP
+BY
+035
+Sandow, Isabelle Marie
+1985
+PIRATEN
+NW
+013
+Sandweg, Michael
+1957
+ÖDP
+218
+Sanli, Nilgün
+1980
+SPD
+NI
+040
+Sari, Lütfi
+1968
+BIG
+BE
+006
+Sarrazin, Manuel
+1982
+GRÜNE
+023
+HH
+002
+Sartor, Diana
+1970
+FREIE WÄHLER
+158
+SN
+002
+Sarzio, Thomas Alexander
+1973
+DIE LINKE
+MV
+007
+Saß, Helmut
+1958
+NPD
+022
+HH
+004
+Saße, Marie-Luise
+1949
+Bündnis 21/RRP
+055
+HB
+002
+Satta, Christian
+1994
+FDP
+283
+BW
+021
+Sauer, Alwin
+1941
+REP
+NI
+005
+Sauer, Michael Willy
+1964
+CSU
+BY
+061
+Sauer, Ralf
+1962
+FDP
+294
+BW
+031
+Sauter, Matthias
+1958
+MLPD
+NI
+005
+Savtekin, Saral
+1961
+BIG
+NW
+005
+Savvidis, Lampros
+1949
+DIE LINKE
+079
+BE
+010
+Sawade, Annette
+1953
+SPD
+268
+BW
+014
+Saxe, Ralph Richard
+1959
+GRÜNE
+HB
+003
+Schaab, Susanne
+1965
+SPD
+HE
+020
+Schaaf, Joachim Günther
+1959
+AfD
+BB
+009
+Schabedoth, Dr. Hans-Joachim
+1952
+SPD
+176
+HE
+013
+Schade, Dr. Johannes Karl
+1966
+AfD
+BY
+016
+Schadowski, Dr. Rolando
+1959
+FDP
+MV
+006
+Schäben, Reinhold
+1960
+NPD
+108
+Schäfer, Andre
+1981
+FAMILIE
+032
+Schäfer, Anita
+1951
+CDU
+211
+RP
+006
+Schäfer, Axel
+1952
+SPD
+140
+NW
+053
+Schäfer, Christian
+1963
+AfD
+054
+HB
+001
+Schäfer, Frank Hubertus
+1964
+PIRATEN
+181
+Schäfer, Jens
+1978
+NPD
+188
+Schäfer, Marcel
+1987
+CDU
+RP
+036
+Schäfer, Marita
+1952
+NPD
+ST
+010
+Schäfer, Michael
+1972
+GRÜNE
+BE
+008
+Schäfer, Paul
+1949
+DIE LINKE
+096
+Schäfer, Steffen
+1971
+AfD
+214
+BY
+002
+Schäfer, Thomas
+1967
+FDP
+HE
+035
+Schäfer, Volker
+1964
+PARTEI DER VERNUNFT
+BW
+001
+Schäffer, Silvana
+1976
+CDU
+TH
+015
+Schäffler, Frank
+1968
+FDP
+133
+NW
+005
+Schäfstoß, Nicolas
+1982
+SPD
+259
+BW
+032
+Schätz, Reinhard
+1959
+NPD
+277
+Schäuble, Dr. Wolfgang
+1942
+CDU
+284
+BW
+001
+Schäuble, Jürgen
+1963
+MLPD
+RP
+004
+Schaffert, Reinhard
+1964
+PIRATEN
+175
+Schaffrath, Hans-Dieter
+1947
+FREIE WÄHLER
+NW
+006
+Schagalkowitsch, Andrea
+1988
+Die PARTEI
+217
+Schalamow, Silvia Maria
+1957
+AfD
+BY
+021
+Schaller, Hans-Peter
+1959
+AfD
+235
+BY
+015
+Schanne-Raab, Gertrud
+1945
+ÖDP
+RP
+004
+Schanz, Peter
+1962
+GRÜNE
+288
+BW
+032
+Schaper, Dr. Marcus
+1973
+GRÜNE
+046
+NI
+020
+Informationen des Bundeswahlleiters,
+321
+Bundestagswahl 2013, Sonderheft Wahlbewerber

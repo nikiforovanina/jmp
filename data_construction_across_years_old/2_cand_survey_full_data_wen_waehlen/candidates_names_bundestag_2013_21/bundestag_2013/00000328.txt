@@ -1,0 +1,386 @@
+2 Verzeichnisse
+2.3 Alphabetisches Verzeichnis der Wahlbewerber
+Name, Vorname(n)
+Geburtsjahr
+Bewerber
+Partei
+SEN
+im
+Wahlkreis
+auf Landesliste
+Land
+Platz
+188
+Schwarz, Dr. Bruno
+1949
+DIE LINKE
+Schwarz, Dr. Caroline
+1971
+BP
+Schwarz, Dr. Christian
+Schwarz, Marion
+Schwarz, Thomas Ludwig
+Schwarzer, Andreas
+1974
+CSU
+1957
+GRÜNE
+1970
+DIE LINKE
+215
+Schwarzelühr-Sutter, Rita
+1962
+SPD
+288
+1961
+FDP
+216
+Schwarzer, Christina
+1976
+CDU
+082
+Schwarzer, Frank
+1974
+DIE LINKE
+132
+Schwede-Oldehus, Babett
+1962
+CDU
+Schwedthelm, Christopher Björn
+1987
+AfD
+Schween, Ingrid
+1963
+DIE LINKE
+Schweickert, Dr. Erik
+1972
+FDP
+279
+Schweiger, Dr. Hermann Josef
+1954
+ŎDP
+Schweighöfer, Daniel
+1980
+PIRATEN
+Schweitzer, Angelika
+1949
+MLPD
+Schweizer, Frank
+1946
+Anderer KWV
+258
+Schweizerhof, Sabine Eva Elisabeth
+1949
+MLPD
+를 ​줄​몇를 ​보고 ​몇몇​떳
+​BY
+002
+055
+RP
+012
+BY
+012
+BW
+010
+040
+006
+SH
+014
+SH
+024
+NW
+022
+BW
+008
+005
+BE
+012
+NW
+013
+NW
+017
+Schwenk, Axel
+1964
+PIRATEN
+178
+Schwerdtfeger, Siegfried
+1973
+NPD
+142
+Schwertges, Heinz Peter
+1959
+DIE LINKE
+272
+Schwettmann, Ole
+Sedlmeyer, Gunther
+1983
+PIRATEN
+034
+1958
+BP
+240
+Seeger, Sabine
+1984
+CDU
+BW
+031
+Seeger, Sebastian
+1981
+PIRATEN
+021
+HH
+001
+Seegers, Vera
+1947
+pro Deutschland
+NI
+001
+Seeghitz, Klaus Jochen
+1965
+AfD
+BY
+010
+Seekatz, Ralf
+1972
+CDU
+RP
+035
+Seel, Manfred
+1954
+DIE LINKE
+254
+BY
+006
+Seemann, Harry Gerhard
+1955
+Anderer KWV
+129
+Seemann, Wolfgang
+1950
+ŎDP
+136
+Seemann-Katz, Ulrike
+1955
+GRÜNE
+013
+MV
+002
+Seestern-Pauly, Matthias
+1984
+FDP
+038
+NI
+009
+Seidel, Wolfgang
+1969
+DIE LINKE
+222
+Seidemann, Lothar
+1950
+REP
+280
+BW
+004
+Seidensticker, Lars
+1973
+pro Deutschland
+BE
+001
+Seidl, Anton
+1959
+FREIE WÄHLER
+BY
+043
+Seidl, Siegfried Hermann
+1965
+FDP
+230
+BY
+026
+Seidler, Malte-Carsten
+1978
+PIRATEN
+Seidler, Pascal
+1991
+DIE LINKE
+Seif, Detlef
+1962
+CDU
+092
+Seifen, Helmut
+1953
+AfD
+124
+Seifert, Berthold Konrad
+1964
+REP
+Seifert, Dr. Ilja
+1951
+DIE LINKE
+157
+20 11
+SH
+007
+SH
+012
+NW
+049
+BY
+003
+SN
+010
+Seifert, Erich
+1965
+AfD
+055
+HB
+003
+Seifert, Ralf Michael
+1955
+AfD
+BB
+011
+Seiler, Priska
+1962
+CDU
+BW
+036
+Seipenbusch, Jens
+1968
+PIRATEN
+NW
+004
+Seissiger, Ursula
+1946
+FDP
+250
+BY
+044
+Seitz, Jasmin
+1989
+CDU
+BW
+033
+Seitz-Hoffmann, Gabriela
+1952
+GRÜNE
+226
+BY
+029
+Seitzer, Albert
+1954
+ÖDP
+263
+Selder-Radke, Beate
+1964
+ŎDP
+ST
+002
+Selig, Holger
+1970
+AfD
+113
+Selle, Johannes
+1956
+CDU
+191
+TH
+007
+Semmler, Diego
+1986
+FREIE WÄHLER
+HE
+014
+Semmler, Georg
+1982
+PARTEI DER VERNUNFT
+209
+RP
+003
+Semrau, Björn Niklas
+1978
+PIRATEN
+186
+HE
+004
+Sendker, Reinhold Max
+1952
+CDU
+130
+Senftleben, Mieke
+1952
+FDP
+077
+Senger-Schäfer, Kathrin
+1962
+DIE LINKE
+206
+Sensburg, Patrick Ernst Hermann
+1971
+CDU
+147
+Serbser, Henriette
+1981
+Die PARTEI
+BE
+007
+Servas, Claudia Irina
+1959
+SPD
+SL
+007
+Serway, Wolfgang
+1948
+MLPD
+BW
+017
+Seyffahrt, Miriam
+1986
+PIRATEN
+BE
+002
+Sharma, Raju
+1964
+DIE LINKE
+005
+Siebe, Dr. Michaele
+1960
+DIE LINKE
+226
+BY
+017
+Sieber, Andrea
+1977
+GRÜNE
+264
+BW
+025
+Siebert, Bernd
+1949
+CDU
+170
+HE
+004
+Sieg, Andre
+1963
+pro Deutschland
+HB
+001
+Sieg, Monika
+1946
+AfD
+RP
+Siegert, Günther
+1947
+AfD
+020
+Sieh, Oliver
+1962
+AfD
+RP
+RP
+018
+009
+Informationen des Bundeswahlleiters,
+Bundestagswahl 2013, Sonderheft Wahlbewerber
+326

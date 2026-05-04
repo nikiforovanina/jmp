@@ -1,0 +1,394 @@
+2 Verzeichnisse
+2.3 Alphabetisches Verzeichnis der Wahlbewerber
+
+Bewerber
+Name, Vorname(n)
+Geburtsjahr
+Partei
+im
+Wahlkreis
+auf Landesliste
+Land
+Platz
+Matthiessen, Dr. Günter
+1947
+Matti, Lars
+1973
+DIE LINKE
+PIRATEN
+HB
+002
+RP
+007
+Mattis, Manfred Günther Ernst Leopold
+1956
+AfD
+HE
+006
+Matulla, Daniel Alexander
+1988
+CSU
+BY
+060
+Matys, Nico
+1979
+Tierschutzpartei
+HB
+004
+Matzat, Jörg
+1972
+AfD
+RP
+005
+Maurer, Wolfgang
+1953
+FREIE WÄHLER
+280
+Mauritz, Mario
+1960
+REP
+088
+NW
+008
+Maxim, Ursula
+May, Dr. Karl-Dietrich
+May, Iryna
+May, Michael
+Mayer, Dr. Norbert
+1967
+DIE LINKE
+BY
+011
+1948
+FREIE WÄHLER
+BW
+012
+1990
+FREIE WÄHLER
+097
+1949
+MLPD
+SL
+005
+1947
+FDP
+292
+BW
+029
+Mayer, Hermann
+1952
+AfD
+253
+BY
+006
+Mayer, Johann
+1960
+GRÜNE
+235
+BY
+048
+Mayer, Maximilian
+1991
+DIE VIOLETTEN
+BY
+015
+Mayer, Stephan Ernst Johann
+1973
+CSU
+213
+Mayr, Thomas Johann
+1988
+BP
+BY
+018
+McDevitt, Dieter
+1964
+PIRATEN
+142
+NW
+020
+Mebus, Gernot
+1960
+MLPD
+RP
+005
+Meenen, Uwe
+Meffert, Hildegard
+Meichelböck, Paul
+Meier, Edmund
+Meier, Karl
+Meier, Matin
+Meier, Reiner
+Meier, Stephan
+Meier, Wolfgang
+1965
+NPD
+076
+BE
+004
+1958
+BüSo
+BE
+018
+1960
+DIE LINKE
+257
+1959
+MLPD
+SN
+006
+1955
+FREIE WÄHLER
+235
+BY
+036
+1976
+Die PARTEI
+BE
+041
+1953
+CSU
+BY
+036
+1991
+CSU
+BY
+051
+1942
+REP
+BW
+003
+Meierhofer, Horst
+1972
+FDP
+233
+BY
+002
+Meine, Henrick
+1976
+FDP
+204
+RP
+015
+Meinhardt, Patrick
+1966
+FDP
+272
+BW
+009
+Meinke, Sanna Milena
+1971
+SPD
+HE
+026
+Meisberger, Dennis
+1988
+CDU
+SL
+013
+Meischner, Wolfgang
+1954
+ÖDP
+234
+BY
+017
+Meise, Ariane Christine
+1960
+NPD
+098
+NW
+003
+Meiser, Ute Maria
+1959
+GRÜNE
+SL
+007
+Meiser, Wolfgang
+1961
+AfD
+SL
+004
+Meißner, Heidi
+1980
+GRÜNE
+158
+SN
+005
+Meißner, Wilfried Kurt Albin
+1957
+Anderer KWV
+196
+Meister, Dr. Michael Günther
+1961
+CDU
+188
+HE
+003
+Meister, Roland Matthäus
+1953
+MLPD
+NW
+007
+Meister, Thomas
+1974
+AfD
+023
+Meiwald, Peter
+1966
+GRÜNE
+027
+NI
+006
+Meixner, André
+1965
+AfD
+BB
+007
+Meixner, Norbert
+1945
+DIE LINKE
+002
+Melter, Michael
+1959
+PIRATEN
+BE
+010
+Memenga, Bernd
+1973
+CDU
+NI
+041
+Mendelsohn, Peter
+1972
+Die PARTEI
+275
+Mengel, Dr. Thomas
+1959
+SPD
+282
+BW
+030
+Menz, Brigit
+1962
+DIE LINKE
+HB
+003
+Menzel, Jürgen
+1963
+GRÜNE
+261
+BW
+020
+Menzner, Dorothée
+Meppen, Lübbo
+Meral, Derya
+1965
+DIE LINKE
+049
+1956
+FDP
+026
+NI
+015
+1989
+MLPD
+BW
+004
+Mergen, Moritz
+1988
+FDP
+RP
+021
+Meridies, Jochen
+1931
+REP
+NI
+006
+Merk, Christoph
+1973
+ÖDP
+287
+Merk, Monika Manuela Carmen
+1963
+DIE LINKE
+078
+BE
+009
+Merkel, Dr. Angela Dorothea
+1954
+CDU
+015
+MV
+001
+Merkert, Johannes
+1984
+PIRATEN
+210
+RP
+010
+Merkl-Zierer, Bettina
+1959
+GRÜNE
+254
+BY
+039
+Merl, Harald
+1970
+NPD
+234
+Mert, Mustafa
+1969
+BIG
+BE
+003
+Mert, Yasar
+1973
+BIG
+BW
+003
+Mertel, Dr. Robert
+1940
+Anderer KWV
+221
+Merten, Ingo Friedrich
+1973
+Die PARTEI
+HH
+005
+Merz, Engelbert
+1965
+Anderer KWV
+156
+Messinger, Jessica
+1988
+GRÜNE
+BW
+029
+Meßmer, Ullrich Karl Wolfgang
+1954
+SPD
+167
+HE
+021
+Metterhausen, Carlo
+1991
+Die PARTE!
+096
+Metz, Dr. Horst Georg
+1973
+AfD
+SN
+002
+Metzger, Anette Sabine
+1964
+FAMILIE
+210
+Metzler, Jan
+1981
+CDU
+207
+RP
+011
+Informationen des Bundeswahlleiters,
+Bundestagswahl 2013, Sonderheft Wahlbewerber
+310

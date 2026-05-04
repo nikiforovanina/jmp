@@ -1,0 +1,25 @@
+"state_id","state_name","year","east_west","group_key","group_pretty","region","party","abs_lower","abs_upper","baseline_mae","afd_group_tol","sc_tol"
+12,"Brandenburg",2021,"east","all","All groups (combined)","Right",6,0.0224609375,0.09375,0.0336276546642699,0.3,0.3
+12,"Brandenburg",2021,"east","all","All groups (combined)","AntiEst",6,0.153369140625,0.22265625,0.0336276546642699,0.3,0.3
+13,"Mecklenburg-Vorpommern",2021,"east","all","All groups (combined)","Right",6,0.21201171875,0.2109375,0.0373395752854826,0.3,0.3
+13,"Mecklenburg-Vorpommern",2021,"east","all","All groups (combined)","AntiEst",6,0,0.17578125,0.0373395752854826,0.3,0.3
+14,"Sachsen",2021,"east","all","All groups (combined)","Right",6,0.09254150390625,0.26171875,0.0305744969664046,0.3,0.3
+14,"Sachsen",2021,"east","all","All groups (combined)","AntiEst",6,0.07890625,0.265625,0.0305744969664046,0.3,0.3
+15,"Sachsen-Anhalt",2021,"east","all","All groups (combined)","Right",6,0.0896484375,0.109375,0.0210979325626185,0.3,0.3
+15,"Sachsen-Anhalt",2021,"east","all","All groups (combined)","AntiEst",6,0.2015625,0.21875,0.0210979325626185,0.3,0.3
+16,"Thüringen",2021,"east","all","All groups (combined)","Right",6,0.17269287109375,0.20703125,0.0399495568727675,0.3,0.3
+16,"Thüringen",2021,"east","all","All groups (combined)","AntiEst",6,0.09522705078125,0.16015625,0.0399495568727675,0.3,0.3
+1,"Schleswig-Holstein",2021,"west","all","All groups (combined)","Right",6,0.056396484375,0.0703125,0.0173621672048457,0.3,0.3
+1,"Schleswig-Holstein",2021,"west","all","All groups (combined)","AntiEst",6,0.0116455078125,0.07421875,0.0173621672048457,0.3,0.3
+3,"Niedersachsen",2021,"west","all","All groups (combined)","Right",6,0.07607421875,0.078125,0.0174754687254125,0.3,0.3
+3,"Niedersachsen",2021,"west","all","All groups (combined)","AntiEst",6,0.0116455078125,0.07421875,0.0174754687254125,0.3,0.3
+5,"Nordrhein-Westfalen",2021,"west","all","All groups (combined)","Right",6,0.0126953125,0.03125,0.0074586941119707,0.3,0.3
+5,"Nordrhein-Westfalen",2021,"west","all","All groups (combined)","AntiEst",6,0.04580078125,0.0546875,0.0074586941119707,0.3,0.3
+6,"Hessen",2021,"west","all","All groups (combined)","Right",6,0.072216796875,0.0859375,0.0174910451886255,0.3,0.3
+6,"Hessen",2021,"west","all","All groups (combined)","AntiEst",6,0.03271484375,0.0546875,0.0174910451886255,0.3,0.3
+7,"Rheinland-Pfalz",2021,"west","all","All groups (combined)","Right",6,0.0545654296875,0.06640625,0.0219433344348699,0.3,0.3
+7,"Rheinland-Pfalz",2021,"west","all","All groups (combined)","AntiEst",6,0.036376953125,0.06640625,0.0219433344348699,0.3,0.3
+8,"Baden-Württemberg",2021,"west","all","All groups (combined)","Right",6,0.0849609375,0.0859375,0.0184231372722827,0.3,0.3
+8,"Baden-Württemberg",2021,"west","all","All groups (combined)","AntiEst",6,0.025048828125,0.0390625,0.0184231372722827,0.3,0.3
+9,"Bayern",2021,"west","all","All groups (combined)","Right",6,0.041357421875,0.0703125,0.0220479869827842,0.3,0.3
+9,"Bayern",2021,"west","all","All groups (combined)","AntiEst",6,0.055224609375,0.0859375,0.0220479869827842,0.3,0.3

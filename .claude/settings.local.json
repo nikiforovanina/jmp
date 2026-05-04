@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(chmod +x /Users/ninanikiforova/Desktop/jmp/1_distribution_estimation_AE_RR/LR_states_full_5k_allyears_edu_relaxboth/codes/submit_all.sh /Users/ninanikiforova/Desktop/jmp/1_distribution_estimation_AE_RR/LR_states_full_5k_allyears_edu_relaxboth/codes/0_2parts_2013.sh /Users/ninanikiforova/Desktop/jmp/1_distribution_estimation_AE_RR/LR_states_full_5k_allyears_edu_relaxboth/codes/0_2parts_2017.sh /Users/ninanikiforova/Desktop/jmp/1_distribution_estimation_AE_RR/LR_states_full_5k_allyears_edu_relaxboth/codes/0_2parts_2021.sh /Users/ninanikiforova/Desktop/jmp/1_distribution_estimation_AE_RR/LR_states_full_5k_allyears_edu_relaxboth/codes/1_graph.sh)",
+      "Bash(chmod +x submit_all.sh 0_2parts_2013.sh 0_2parts_2017.sh 0_2parts_2021.sh 1_graph.sh)",
+      "Bash(Rscript -e 'p <- parse\\(\"0_model.R\"\\); cat\\(\"0_model.R parses OK,\", length\\(p\\), \"top-level expressions\\\\n\"\\); p2 <- parse\\(\"0_2parts_edu.R\"\\); cat\\(\"0_2parts_edu.R parses OK\\\\n\"\\); p3 <- parse\\(\"0_configuration.R\"\\); cat\\(\"0_configuration.R parses OK\\\\n\"\\); p4 <- parse\\(\"1_graph_cluster_shares.R\"\\); cat\\(\"1_graph_cluster_shares.R parses OK\\\\n\"\\)')",
+      "Bash(R --version)",
+      "Bash(Rscript -e ' *)",
+      "Bash(Rscript 1_compute_cand_scores_pooled.R)",
+      "Bash(Rscript -e 'p <- parse\\(\"/Users/ninanikiforova/Desktop/jmp/0_data_construction/0_data_construction.R\"\\); cat\\(length\\(p\\), \"expressions parsed OK\\\\n\"\\)')",
+      "Bash(Rscript -e 'p1 <- parse\\(\"0_weights_by_region_state_pi.R\"\\); p2 <- parse\\(\"1_plot_weights.R\"\\); cat\\(length\\(p1\\), \"and\", length\\(p2\\), \"expressions parsed OK\\\\n\"\\)')",
+      "Bash(Rscript /tmp/inspect_2021.R)",
+      "Bash(Rscript compare_2021_new_old.R)",
+      "Bash(Rscript decompose_afd_x_2021.R)",
+      "Bash(Rscript 0_compute_cand_score_2021.R)",
+      "Bash(Rscript /tmp/compare_old_new_scored.R)",
+      "Bash(Rscript /tmp/check_wen.R)",
+      "Bash(awk -F, 'NR==1 || NR<=3' /Users/ninanikiforova/Desktop/jmp/0_data_construction/2_cand_survey_full_data_wen_waehlen/complementing_data_2021/wen_waehlen_btw21_candidates.csv)",
+      "Bash(awk -F, 'NR>1 {print $0}' /Users/ninanikiforova/Desktop/jmp/0_data_construction/2_cand_survey_full_data_wen_waehlen/complementing_data_2021/wen_waehlen_btw21_candidates.csv)",
+      "Bash(awk -F, '{print toupper\\($0\\)}')",
+      "Bash(Rscript /tmp/inspect_wen_csv.R)",
+      "Bash(Rscript /tmp/check_imputation.R)",
+      "Bash(Rscript /tmp/verify_afd_fix.R)",
+      "Bash(Rscript misc_folder/drop_ec_c11_diagnostic.R)",
+      "Bash(Rscript misc_folder/irt_vs_meanz_diagnostic.R)",
+      "Bash(Rscript 2_compute_cand_scores_irt.R)",
+      "Bash(Rscript /tmp/inspect_old_test_data.R)",
+      "Bash(Rscript /tmp/compare_old_new_state01_2021.R)"
+    ]
+  }
+}

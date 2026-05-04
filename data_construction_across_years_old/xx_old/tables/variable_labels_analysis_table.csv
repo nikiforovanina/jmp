@@ -1,0 +1,54 @@
+year,domain,var,reverse,range,label
+2013,elite,c20,FALSE,1–4,BRD: Demokratiezufriedenheit
+2013,elite,d5a,FALSE,1–5,Aussagen Demokratie: genug Partizipationsmoeglichkeiten
+2013,elite,d5b,FALSE,1–5,Aussagen Demokratie: Gesetzgebung spiegelt Interessen wider
+2013,elite,d5c,FALSE,1–5,Aussagen Demokratie: Parteien sind der zentrale Vermittler
+2013,elite,d5f,TRUE,1–5,Aussagen Demokratie: Volksentscheid auf Bundesebene
+2013,elite,d5g,FALSE,1–5,Aussagen Demokratie: Referenden fuehren zu schlechten Gesetzen
+2013,elite,d5h,TRUE,1–5,Aussagen Demokratie: Vertrauensverlust der Buerger
+2013,lr_culture,c2a,TRUE,1–5,Einstellungen: Einwanderer an Kultur anpassen
+2013,lr_culture,c2d,TRUE,1–5,Einstellungen: Verbot von gleichgeschlechtlichen Ehen
+2013,lr_culture,c2i,FALSE,1–5,Einstellungen: Einwander gut fuer deutsche Wirtschaft
+2013,lr_culture,c2j,FALSE,1–5,Einstellungen: Selbstentscheidung ueber Schwangerschaftsabbruch
+2013,lr_culture,c9,FALSE,1–11,LibAut Issue Auslaender: Ego
+2013,lr_econ,c19e,FALSE,1–5,Wirtschaftskrise: Bereitstellung von Geldern fuer Wirtschaftswachstum
+2013,lr_econ,c19f,FALSE,1–5,Wirtschaftskrise: finanzielle Unterstuetzung aus Deutschland
+2013,lr_econ,c2b,TRUE,1–5,Einstellungen: Regierung aus Wirtschaft heraushalten
+2013,lr_econ,c2g,FALSE,1–5,Einstellungen: soziale Absicherung als Regierungsziel
+2013,lr_econ,c2h,FALSE,1–5,Einstellungen: Regierung sollte Einkommensunterschiede verringern
+2013,lr_econ,c3,FALSE,1–11,Links-Rechts: Selbsteinstufung
+2017,elite,c20,FALSE,1–4,BRD: Demokratiezufriedenheit
+2017,elite,d6a,FALSE,1–5,Aussagen Demokratie: genug Partizipationsmoeglichkeiten
+2017,elite,d6b,FALSE,1–5,Aussagen Demokratie: Gesetzgebung spiegelt Interessen wider
+2017,elite,d6c,FALSE,1–5,Aussagen Demokratie: Parteien sind die zentralen Vermittler
+2017,elite,d6f,TRUE,1–5,Aussagen Demokratie: Volksentscheid auf Bundesebene
+2017,elite,d6g,FALSE,1–5,Aussagen Demokratie: Referenden fuehren zu schlechten Gesetzen
+2017,elite,d6h,TRUE,1–5,Aussagen Demokratie: Vertrauensverlust der Buerger
+2017,lr_culture,c2a,TRUE,1–5,Einstellungen: Einwanderer an Kultur anpassen
+2017,lr_culture,c2d,TRUE,1–5,Einstellungen: Verbot von gleichgeschlechtlichen Ehen
+2017,lr_culture,c2i,FALSE,1–5,Einstellungen: Einwanderer gut fuer deutsche Wirtschaft
+2017,lr_culture,c2j,FALSE,1–5,Einstellungen: Selbstentscheidung ueber Schwangerschaftsabbruch
+2017,lr_culture,c6,FALSE,1–11,LibAut Issue Auslaender: Ego
+2017,lr_econ,c18c,TRUE,1–5,Staatsausgaben: Bundeswehr
+2017,lr_econ,c18h,FALSE,1–5,Staatsausgaben: Entwicklungshilfe
+2017,lr_econ,c2b,TRUE,1–5,Einstellungen: Regierung aus Wirtschaft heraushalten
+2017,lr_econ,c2g,FALSE,1–5,Einstellungen: soziale Absicherung als Regierungsziel
+2017,lr_econ,c2h,FALSE,1–5,Einstellungen: Regierung sollte Einkommensunterschiede verringern
+2017,lr_econ,c3,FALSE,1–11,Links-Rechts: Selbsteinstufung
+2021,elite,c23,FALSE,1–4,Demokratie: Zufriedenheit
+2021,elite,d7a,TRUE,1–5,"Einstellungen: Demokratie, genug Partizipationsmoeglichkeiten"
+2021,elite,d7b,TRUE,1–5,"Einstellungen: Demokratie, Gesetzgebung spiegelt Mehrheitsinteressen"
+2021,elite,d7c,TRUE,1–5,"Einstellungen: Demokratie, Parteien zentrale Vermittlerinnen"
+2021,elite,d7f,FALSE,1–5,"Einstellungen: Demokratie, Volksentscheid auf Bundesebene"
+2021,elite,d7g,TRUE,1–5,"Einstellungen: Demokratie, Referenden schlecht durchdacht"
+2021,elite,d7h,FALSE,1–5,"Einstellungen: Demokratie, Vertrauensverlust"
+2021,lr_culture,c2a,FALSE,1–5,Einstellungen: Anpassung an deutsche Kultur
+2021,lr_culture,c2d,TRUE,1–5,Einstellungen: Ehe nur fuer heterosex. Paare
+2021,lr_culture,c2i,TRUE,1–5,Einstellungen: Immigration gut fuer Wirtschaft
+2021,lr_culture,c2j,TRUE,1–5,Einstellungen: selbstbestimmter Schwangerschaftsabbruch
+2021,lr_culture,c8,FALSE,1–11,"Positionsissue: Zuwanderung, Ego"
+2021,lr_econ,c11,TRUE,1–11,"Positionsissue: Steuern vs. Sozialleistungen, Ego"
+2021,lr_econ,c2b,FALSE,1–5,Einstellungen: Staat aus Wirtschaft heraushalten
+2021,lr_econ,c2g,TRUE,1–5,Einstellungen: Regierungsziel soziale Absicherung
+2021,lr_econ,c2h,TRUE,1–5,Einstellungen: Einkommensunterschiede verringern
+2021,lr_econ,c5,FALSE,1–11,Links-Rechts-Einstufung: Ego

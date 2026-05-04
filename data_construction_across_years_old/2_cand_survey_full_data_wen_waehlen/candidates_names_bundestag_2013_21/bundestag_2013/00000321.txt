@@ -1,0 +1,398 @@
+2 Verzeichnisse
+2.3 Alphabetisches Verzeichnis der Wahlbewerber
+
+Richter, Gordon
+Richter, Heinz Gustav
+Richter, Karl
+Name, Vorname(n)
+Richter, Klaus Siegfried
+Richter, Mathias
+Richter, Peter Rüdiger
+Richter, Thomas
+Richter, Tobias
+Geb
+Geburtsjahr
+Bewerber
+Partei
+im
+Wahlkreis
+auf Landesliste
+Land
+Platz
+1974
+NPD
+194
+TH
+003
+1945
+Bündnis 21/RRP
+NW
+007
+1962
+NPD
+219
+BY
+001
+1952
+DIE VIOLETTEN
+BY
+009
+1967
+FDP
+121
+NW
+025
+1985
+NPD
+298
+SL
+003
+1969
+FDP
+158
+SN
+008
+1981
+NPD
+031
+Rickels, Karsta Luise
+1986
+SPD
+NI
+034
+Ridder De, Dr. Daniela
+1962
+SPD
+031
+NI
+010
+Riebsamen, Lothar
+1957
+CDU
+293
+Riech, Berthold
+1967
+FREIE WÄHLER
+MV
+009
+Rieckmann, Barbara Maria
+1935
+ÖDP
+NW
+022
+Ried, Dr. Alexander Franz
+1982
+CSU
+BY
+069
+Riedel, Carmen
+1971
+AfD
+TH
+005
+Riediger, Ulrich
+1954
+AfD
+222
+BY
+027
+Rief, Josef
+1960
+CDU
+292
+Riefling, Ricarda
+1983
+NPD
+211
+RP
+001
+Rieger, Andreas Eberhard Alexander
+1963
+GRÜNE
+062
+BB
+006
+Rieger, Hans-Georg
+1958
+Anderer KWV
+056
+Riehl, Florian
+1986
+FREIE WÄHLER
+254
+BY
+027
+Riemann, Sergej
+1986
+AfD
+BW
+025
+Riemenschneider, Jenny
+1985
+REP
+TH
+004
+Riemer, Fabian
+1978
+AfD
+HH
+004
+Riensch, Bernd
+1965
+PIRATEN
+040
+Ries, Dr. Jürgen
+1969
+FREIE WÄHLER
+185
+HE
+009
+Ries, Knut Erwin
+1955
+CSU
+BY
+064
+Ries, Matthias
+1969
+NPD
+NI
+010
+Riesenhuber, Prof. Dr. Heinz
+1935
+CDU
+181
+HE
+006
+Rieß, Vanessa
+1979
+SPD
+272
+BW
+028
+Riester, Paula
+1984
+GRÜNE
+BE
+005
+Rigl, Hans-Jürgen
+Rimbrecht, Walter
+Rimkus, Andreas
+Ringbeck, Alexander
+Ringer, Stefan
+1962
+PIRATEN
+253
+BY
+023
+1952
+SPD
+RP
+021
+1962
+SPD
+107
+NW
+019
+1989
+GRÜNE
+130
+1956
+SPD
+HE
+037
+Rippert, Ulrich
+1951
+PSG
+BE
+001
+Ripsam, Iris
+1959
+CDU
+BW
+020
+Ristl, Rudolf Felix
+1962
+PIRATEN
+255
+Rittaler, Dr. Jan Benedykt
+1959
+AfD
+BW
+004
+Ritter, Gabriele Marianne
+1959
+DIE LINKE
+SH
+011
+Rittershaus, Susanne
+1968
+FDP
+118
+NW
+049
+Rix, Sönke
+1975
+SPD
+004
+SH
+003
+Rochel, Dr. Hans Hermann Maria
+1933
+NPD
+097
+Rochner, Wolfgang Walter
+1941
+NPD
+228
+Rode, Sebastian
+1986
+SPD
+NI
+049
+Rode-Bosse, Petra
+1959
+SPD
+136
+NW
+034
+Röbosch, Alois Johann
+1958
+REP
+RP
+002
+Röckemann, Thomas
+1965
+AfD
+NW
+024
+Röder, Dr. Michael Klaus
+1966
+ÖDP
+231
+BY
+022
+Röder, Frank
+1962
+PIRATEN
+081
+Röder, Silvia Paula
+1960
+DIE VIOLETTEN
+BY
+004
+Röderstein, René
+1976
+PIRATEN
+NW
+018
+Rödiger, Thomas
+1968
+Anderer KWV
+060
+Röhm, Dr. André Tilmann
+1961
+AfD
+220
+BY
+019
+Röhrig, Carolin
+1982
+CDU
+SL
+017
+Römer, Aaron
+1994
+PARTEI DER VERNUNFT
+RP
+004
+Römer, Christoph
+1984
+ÖDP
+TH
+014
+Röper, Manuela
+1978
+Tierschutzpartei
+BY
+001
+Röring, Johannes
+1959
+CDU
+126
+Rösel, Kathrin
+1970
+CDU
+NI
+030
+Rösler, Dr. Philipp
+1973
+FDP
+043
+NI
+001
+Röspel, Peter René
+1964
+SPD
+138
+NW
+046
+Rößer, Holger
+1977
+Die PARTEI
+HE
+005
+Rößner, Tabea
+1966
+GRÜNE
+206
+RP
+001
+Rötteken, Ludwig Johann
+1945
+Bündnis 21/RRP
+NW
+006
+Röttgen, Dr. Norbert
+1965
+CDU
+098
+Rogala, Dominik
+1988
+Die PARTEI
+NW
+046
+Rogel-Obermanns, Walter Hans
+1953
+DIE LINKE
+108
+Roggenkamp, Claudius
+1981
+PIRATEN
+252
+BY
+006
+Rogner, Axel
+1966
+FREIE WÄHLER
+242
+BY
+005
+Rogoll, Anneliese
+1939
+ÖDP
+BE
+002
+Rohde, Andreas
+1968
+PIRATEN
+NW
+009
+Rohde, Dennis
+1986
+SPD
+027
+NI
+015
+Informationen des Bundeswahlleiters,
+319
+Bundestagswahl 2013, Sonderheft Wahlbewerber

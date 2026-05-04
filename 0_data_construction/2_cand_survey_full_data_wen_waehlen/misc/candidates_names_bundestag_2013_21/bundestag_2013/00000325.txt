@@ -1,0 +1,391 @@
+2 Verzeichnisse
+2.3 Alphabetisches Verzeichnis der Wahlbewerber
+
+Bewerber
+Name, Vorname(n)
+Geburtsjahr
+Partei
+im
+Wahlkreis
+auf Landesliste
+Land
+Platz
+Schlage, Britta
+1956
+SPD
+HH
+009
+Schlak, Viktor
+1978
+NPD
+112
+Schlang, Elmar Norman
+1981
+PARTEI DER VERNUNFT
+BY
+014
+Schlatmann-Wellnhofer, Elke
+1965
+SPD
+BY
+049
+Schlecht, Michael
+1951
+DIE LINKE
+275
+BW
+001
+Schlegel, Astrid
+1954
+SPD
+NI
+030
+Schlegel, Dr. Dorothee
+1959
+SPD
+276
+BW
+020
+Schlegel, Peter
+1960
+DIE LINKE
+241
+Schleicher-Frank, Marion
+1964
+FREIE WÄHLER
+209
+RP
+003
+Schlender, Dr. Manfred
+1943
+pro Deutschland
+MV
+005
+Schlenker, Thomas
+1963
+GRÜNE
+067
+Schlesiger, Sven
+1986
+DIE LINKE
+NW
+021
+Schlesinger, Paul Friedrich Georg Martin
+1947
+MLPD
+122
+Schlierer, Dr. Rolf
+1955
+REP
+BW
+002
+Schlierf, Hanns-Dieter
+1954
+ÖDP
+226
+BY
+023
+Schlitter-Baukloh, Wilhelm Heinz Bernd
+1942
+MLPD
+NW
+019
+Schlösser, André
+1975
+Die PARTEI
+NW
+030
+Schlösser, Olaf
+1971
+Die PARTEI
+NW
+010
+Schlöter, Manfred
+1940
+Die PARTEI
+110
+NW
+036
+Schlöter, Marlies
+1950
+Die PARTEI
+NW
+035
+Schlöter, Wibke
+1984
+Die PARTEI
+NW
+052
+Schloon, Ursula Grete
+1943
+Tierschutzpartei
+SH
+003
+Schlosser, Siegfried
+1956
+PIRATEN
+080
+Schlottmann, Klaus-Dieter
+1949
+PBC
+045
+NI
+003
+Schlude, Bärbel
+1976
+REP
+BY
+024
+Schlüchting, Martin
+1967
+FREIE WÄHLER
+NW
+012
+Schlüter, Andrew Niko
+1967
+MLPD
+082
+BE
+001
+Schlüter, Brigitte
+1944
+FDP
+HE
+026
+Schlüter, Sanja
+1977
+MLPD
+BE
+006
+Schlumberger-Dogu, Lilian
+1950
+DIE LINKE
+BY
+019
+Schmalcz, Andreas
+1965
+CSU
+BY
+070
+Schmalzbauer, Reinhold
+1975
+GRÜNE
+Schmatz, Thomas Maria
+1949
+CSU
+Schmelzle, Heiko
+1970
+CDU
+Schmezer, Susanne
+1967
+CDU
+Schmid, Christoph Matthias
+1980
+PIRATEN
+2220
+BY
+052
+BY
+058
+NI
+026
+BW
+043
+BY
+018
+Schmidhuber, Anna
+1988
+GRÜNE
+BY
+051
+Schmidt, Christel
+1936
+REP
+RP
+008
+Schmidt, Christian
+1957
+CSU
+243
+BY
+009
+Schmidt, Dagmar
+1973
+SPD
+172
+HE
+006
+Schmidt, Detlef Werner
+1953
+FREIE WÄHLER
+084
+Schmidt, Dr. Andreas
+1970
+SPD
+074
+ST
+005
+Schmidt, Dr. Frithjof
+1953
+GRÜNE
+140
+NW
+004
+Schmidt, Edda
+1948
+NPD
+290
+BW
+002
+Schmidt, Felix
+1990
+GRÜNE
+211
+RP
+010
+Schmidt, Gabriele
+1956
+CDU
+BW
+013
+Schmidt, Hans
+1939
+NPD
+295
+Schmidt, Heike
+1964
+CDU
+SN
+014
+Schmidt, Heiko Gerhard
+1988
+GRÜNE
+249
+BY
+046
+Schmidt, Ingeborg
+1946
+pro Deutschland
+BY
+003
+Schmidt, Marion Beate Frederike
+1954
+MLPD
+BY
+010
+Schmidt, Matthias
+1963
+SPD
+084
+BE
+008
+Schmidt, Matthias
+1976
+FREIE WÄHLER
+085
+Schmidt, Mirko
+1966
+pro Deutschland
+155
+SN
+001
+Schmidt, Peer
+1956
+REP
+BE
+004
+Schmidt, Rainer
+1962
+DIE VIOLETTEN
+BY
+030
+Schmidt, Renate (Gisela)
+1959
+MLPD
+295
+Schmidt, Rudolf Lothar
+1951
+DIE LINKE
+161
+SN
+012
+Schmidt, Sebastian
+1987
+FREIE WÄHLER
+076
+Schmidt, Stefan Rupert
+1981
+GRÜNE
+232
+BY
+010
+Schmidt, Steffen
+Schmidt, Sven
+1965
+FREIE WÄHLER
+SN
+005
+1973
+AfD
+009
+Schmidt, Ulla
+1949
+SPD
+087
+NW
+010
+Schmidt, Wiebke
+1985
+FDP
+HE
+028
+Schmidt-Berg, Lars
+1978
+CDU
+NI
+033
+Schmidtke, Sebastian
+1985
+NPD
+083
+BE
+002
+Schmidtsdorff-Aicher, Renate Johanna
+1942
+DIE FRAUEN
+BY
+004
+Schmitsdorf, Klaus
+1949
+DIE LINKE
+235
+Schmitt, Markus
+1966
+GRÜNE
+299
+SL
+004
+Schmitt, Oliver Maria
+1966
+Die PARTEI
+HE
+001
+Schmitt, Peter
+1966
+ÖDP
+RP
+014
+Schmitt, Roman
+1984
+PIRATEN
+208
+RP
+009
+Schmitt, Ronja
+1989
+CDU
+BW
+019
+Informationen des Bundeswahlleiters,
+323
+Bundestagswahl 2013, Sonderheft Wahlbewerber

@@ -1,0 +1,396 @@
+2 Verzeichnisse
+2.3 Alphabetisches Verzeichnis der Wahlbewerber
+Bewerber
+Name, Vomame(n)
+Geburtsjahr
+Partei
+im
+Wahlkreis
+auf Landesliste a
+Land
+Platz
+Stalleicher, Josef Stephan
+Stalz, Helmut
+1950
+BüSo
+HE
+008
+1953
+FREIE WÄHLER
+144
+NW
+001
+Stamm, Arnim
+201961
+Die PARTEI
+BE
+031
+Stamm, Markus
+1970
+ÖDP
+NW
+016
+Stamm-Fibich, Martina
+1965
+SPD
+242
+BY
+018
+Stanek, Hagen
+1969
+PIRATEN
+260
+Stange, Karola
+1959
+DIE LINKE
+193
+Stanglmaier, Dr. Michael
+1963
+GRÜNE
+215
+BY
+020
+Stanneck, Arne
+1970
+AfD
+005
+SH
+004
+Staratschek, Felix Johannes
+1966
+Anderer KWV
+099
+Starbatty, Dr. Joachim
+AfD
+BE
+001
+Starck, Florian Helmut
+1978
+Tierschutzpartei
+BY
+006
+Starck, Karl-Heinz
+Starick, Bernd
+Stark, Tobias
+Stark-Watzinger, Bettina
+Staschewski, Arno
+19349
+CDU
+SH
+021
+1963
+AfD
+BB
+008
+1979
+CDU
+BW
+038
+1968
+FDP
+181
+HE
+004
+1957
+AfD
+033
+Staszewski, Alina
+1986
+REP
+BY
+028
+Staszewski, Susanne
+1959
+REP
+BY
+039
+Staubitz, Bianca
+1984
+PIRATEN
+108
+Stauch, Detlev Werner Helmut
+1953
+REP
+TH
+001
+Stauche, Carola
+1952
+CDU
+196
+TH
+006
+Staudenhöchtl, Peter
+1955
+REP
+223
+BY
+002
+Staudenmaier, Sebastian
+1990
+PIRATEN
+269
+BW
+007
+Stawitz, Ingo
+1950
+NPD
+007
+SH
+001
+Steck-Walicki, Zofia Teresa
+1947
+pro Deutschland
+HE
+002
+Steffel, Dr. Frank
+1966
+CDU
+077
+BE
+004
+Steffen, Dr. Hans Joachim
+1956
+FREIE WÄHLER
+BW
+023
+Steffen, Jan Oliver
+1973
+Die PARTEI
+HE
+003
+Steffen, Sonja Amalie
+1963
+SPD
+015
+MV
+001
+Stefinger, Dr. Wolfgang
+1985
+CSU
+219
+BY
+018
+Stegemann, Albert
+1976
+CDU
+031
+NI
+027
+Steggewentz, Derk-Olaf
+1952
+DIE LINKE
+039
+Stegmair, Paul
+1952
+REP
+BY
+027
+Steidl, Dr. Christian
+1973
+CSU
+BY
+048
+Steigert, Marco
+1974
+REP
+208
+Stein, Dr. Dieter
+1957
+MLPD
+HE
+005
+Stein, Florian Carsten
+1983
+NPD
+061
+BB
+009
+Stein, Hans Hermann
+1965
+FDP
+094
+NW
+009
+Stein, Horst-Peter
+1960
+FDP
+BB
+007
+Stein, Peter
+1968
+CDU
+014
+MV
+006
+Stein, Uwe
+1970
+PIRATEN
+NW
+014
+Steinbach, Erika
+1943
+CDU
+183
+HE
+005
+Steinbeck, Torsten
+1968
+NPD
+246
+Steinberg, Sören
+1979
+SPD
+NI
+047
+Steinbrück, Peer
+1947
+SPD
+104
+NW
+001
+Steineke, Sebastian
+1973
+CDU
+056
+BB
+009
+Steiner, Dorothea
+1948
+GRÜNE
+039
+NI
+010
+Steiner, Dr. Dagmar
+1964
+CDU
+SH
+025
+Steiner, Kornelius
+1992
+PARTEI DER VERNUNFT
+BY
+018
+Steinert, Frank
+1976
+PIRATEN
+060
+Steinhauer, Rosemarie
+1957
+FDP
+139
+NW
+022
+Steinhoff, Felicitas
+1985
+PIRATEN
+NI
+005
+Steininger, Fred
+1938
+pro Deutschland
+BW
+002
+Steininger, Johannes Eberhard
+1987
+CDU
+RP
+016
+Steininger, Sabine
+1966
+GRÜNE
+237
+BY
+041
+Steinkamp, Jochen Hans-Theo
+1981
+CDU
+NI
+040
+Steinkampf-Sommer, Axel
+1966
+AfD
+049
+Steinke, Kersten
+1958
+DIE LINKE
+191
+TH
+001
+Steinke, Lilli
+1941
+Volksabstimmung
+BW
+003
+Steinleitner, Alfred
+1960
+NPD
+227
+Steinmeier, Dr. Frank-Walter
+1956
+SPD
+060
+BB
+001
+Steinmetzer, Anja
+1982
+Die PARTEI
+BE
+013
+Steinwender, Frank Klaus
+1966
+GRÜNE
+138
+Steinzen, Sebastian
+1976
+FDP
+125
+NW
+058
+Steltner, Jens Christoph
+1986
+PIRATEN
+HE
+007
+Stemke, Jürgen
+1972000
+PIRATEN
+051
+NI
+008
+Stenzel, Jörn
+1975
+pro Deutschland
+ST
+005
+Stephan, Tobias
+1974
+PIRATEN
+NW
+019
+Stephenson, Dr. Uwe
+1955
+GRÜNE
+SH
+010
+Stern, Lars
+1981
+DIE LINKE
+284
+Stetten Freiherr von, Christian
+1970
+CDU
+268
+Stich, Jan Paul
+1987
+Stich, Volker Michael
+1970
+GRÜNE
+AfD
+207
+RP
+008
+BY
+025
+Informationen des Bundeswahlleiters,
+Bundestagswahl 2013, Sonderheft Wahlbewerber
+328

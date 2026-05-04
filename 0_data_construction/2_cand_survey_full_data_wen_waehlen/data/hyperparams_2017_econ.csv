@@ -1,0 +1,2 @@
+"year","target","penalty","mixture","cv_rmse","cv_rsq","n_train_rows","selected_at"
+2017,"econ_lr_score",0.202358964772516,0.1,0.301979996085585,0.817099736151564,311,"2026-05-02 17:10:45"

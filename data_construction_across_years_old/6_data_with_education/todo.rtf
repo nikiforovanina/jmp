@@ -1,0 +1,18 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww14080\viewh9640\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 For all of the following please provide step by step code. Do not provide the code that would define all the functions in the beginning, and then run all of them at once in the end. it is difficult for debugging otherwise. do not run the code, just create it. \
+\
+I want to split shares of existing demographic groups in files census_XXXX.Rdata into those within this group with or without higher education. To do so I want to use X4_variable_attribute_label ==  \'93
+\f1\fs26 Fachhochschul-\'a0oder\'a0Hochschulreife\'a0(Abitur)
+\f0\fs24 \'94 in the files which contain 2000S in the name. These are the files that contain joint demographics of 1) education level, 2) gender, 3) age/\
+\
+First, take one of the files (e.g. gem_verb_2000S-3041_de_flat.csv) and do the following: for each territorial unit construct the same age groups as in my census files (follow 0_census_separate_years.R for groups creation), and then split the groups in two  depending on higher education and calculate relative shares of with/without education in each group. \
+\
+Then you should find the corresponding territorial units in the census files. Units in the census file are gemeinde, and their codes are in the column called \'91code\'92. e.g. if we use gem_verb file than it is always always that we should drop the last three characters in the end of the code to get the gem_verb for each gemeinde. with kreise codes we should drop even more.\
+\
+Then merge the data and split each group share in the census_XXX.Rdata file into two: with/without education. Create new codes for this.}

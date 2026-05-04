@@ -1,0 +1,644 @@
+# ============================================================
+# FULL WORKING SCRIPT:
+# - compute scores (AE, LR overall, LR econ, LR cult)
+# - correlations (overall + within party) + plots
+# - SDs (overall + within party) + plots
+# ============================================================
+
+rm(list = ls())
+set.seed(42)
+
+suppressPackageStartupMessages({
+  library(dplyr)
+  library(tidyr)
+  library(tibble)
+  library(ggplot2)
+  library(haven)
+  library(stringr)
+})
+
+party_lut_codes <- tibble::tribble(
+  ~orig, ~party_id,
+  2  ,   1,   # CDU
+  3  ,   1,   # CSU -> CDU bucket
+  4  ,   2,   # SPD
+  6  ,   3,   # GRUENE
+  5  ,   4,   # FDP
+  7  ,   5,   # LINKE
+  322,   6    # AfD
+)
+
+# -----------------------------
+# Helpers (needed by scoring)
+# -----------------------------
+to_num <- function(x) {
+  if (inherits(x, c("haven_labelled", "labelled", "labelled_spss"))) {
+    x <- haven::as_factor(x, levels = "values")
+  }
+  if (is.factor(x)) x <- as.character(x)
+  suppressWarnings(as.numeric(x))
+}
+zstd <- function(x) as.numeric(scale(x))
+rev_scale <- function(x, lo, hi) { x <- to_num(x); ifelse(is.finite(x), (lo + hi) - x, NA_real_) }
+validate_range <- function(x, lo, hi) {
+  x <- to_num(x)
+  x[!(x >= lo & x <= hi)] <- NA_real_
+  x
+}
+
+# -----------------------------
+# Party LUT + labels/colors
+# (If you already have party_lut_codes, keep yours.)
+# -----------------------------
+# party_lut_codes <- tibble::tribble(
+#   ~orig, ~party_id,
+#   2,1, 3,1, 4,2, 6,3, 5,4, 7,5, 322,6
+# )
+
+party_labels <- c("1"="CDU/CSU", "2"="SPD","3"="GRUENE","4"="FDP","5"="LINKE","6"="AfD")
+
+# fallback party colors if you don't already have party_colors
+party_colors_fallback <- c(
+  "CDU/CSU"="#000000","SPD"="#E3000F","GRUENE"="#46962B",
+  "FDP"="#FFED00","LINKE"="#BE3075","AfD"="#009EE0"
+)
+# if you already have party_colors defined, it will be used; otherwise fallback
+if (!exists("party_colors")) party_colors <- party_colors_fallback
+
+# ============================================================
+# 1) Read candidate files
+# ============================================================
+cand13 <- read_dta("../candidates_2013.dta")
+names(cand13) <- tolower(names(cand13))
+
+cand13 <- cand13 %>%
+  mutate(wknr = wkname,
+         partei = if ("a1" %in% names(.)) a1 else partei) %>%
+  filter(!is.na(wknr) & to_num(wknr) > 0)
+
+cand17 <- read_dta("../candidates_2017.dta")
+names(cand17) <- tolower(names(cand17))
+cand17 <- cand17 %>%
+  mutate(wknr = wknr,
+         partei = if ("a1" %in% names(.)) a1 else partei) %>%
+  filter(!is.na(wknr) & to_num(wknr) > 0)
+
+cand21 <- read_dta("../candidates_2021.dta")
+names(cand21) <- tolower(names(cand21))
+cand21 <- cand21 %>%
+  mutate(wknr = if ("wkname" %in% names(.)) wkname else wknr) %>%
+  filter(!is.na(wknr) & to_num(wknr) > 0)
+
+# ============================================================
+# 2) Scoring functions (your versions + 4 scores)
+# ============================================================
+
+compute_scores_2013 <- function(dat) {
+  names(dat) <- tolower(names(dat))
+  if (!"wknr" %in% names(dat))   stop("2013: 'wknr' missing")
+  if (!"partei" %in% names(dat)) stop("2013: 'partei' missing")
+  
+  out <- dat
+  n <- nrow(out)
+  
+  elite_specs <- list(
+    list(var="d5a", rev=FALSE, lo=1, hi=5),
+    list(var="d5b", rev=FALSE, lo=1, hi=5),
+    list(var="d5c", rev=FALSE, lo=1, hi=5),
+    list(var="d5g", rev=FALSE, lo=1, hi=5),
+    list(var="d5h", rev=TRUE,  lo=1, hi=5),
+    list(var="d5f", rev=TRUE,  lo=1, hi=5),
+    list(var="c20", rev=FALSE, lo=1, hi=4)
+  )
+  
+  elite_use <- character(0)
+  for (sp in elite_specs) {
+    v <- sp$var
+    if (v %in% names(out)) {
+      tmp <- validate_range(out[[v]], sp$lo, sp$hi)
+      tmp <- if (sp$rev) rev_scale(tmp, sp$lo, sp$hi) else to_num(tmp)
+      out[[paste0(v,"_ae")]] <- tmp
+      elite_use <- c(elite_use, paste0(v,"_ae"))
+    }
+  }
+  
+  anti_elite_score <- if (length(elite_use)) {
+    Z <- as.data.frame(lapply(out[elite_use], zstd))
+    rowMeans(Z, na.rm = TRUE)
+  } else rep(NA_real_, n)
+  
+  econ_lr_specs <- list(
+    list(var="c2b",  rev=TRUE,  lo=1, hi=5),
+    list(var="c2h",  rev=FALSE, lo=1, hi=5),
+    list(var="c2g",  rev=FALSE, lo=1, hi=5)
+    #list(var="c19e", rev=FALSE, lo=1, hi=5),
+    #list(var="c19f", rev=FALSE, lo=1, hi=5)
+  )
+  
+  cult_lr_specs <- list(
+    list(var="c2d", rev=TRUE,  lo=1, hi=5),
+    list(var="c2i", rev=FALSE, lo=1, hi=5),
+    list(var="c2j", rev=FALSE, lo=1, hi=5),
+    list(var="c2a", rev=TRUE,  lo=1, hi=5)
+  )
+  
+  self_lr_specs <- list(
+    list(var="c3", rev=FALSE, lo=1, hi=11),
+    list(var="c9", rev=FALSE, lo=1, hi=11)
+  )
+  
+  make_block <- function(specs, suffix) {
+    use <- character(0)
+    for (sp in specs) {
+      v <- sp$var
+      if (v %in% names(out)) {
+        tmp <- validate_range(out[[v]], sp$lo, sp$hi)
+        tmp <- if (sp$rev) rev_scale(tmp, sp$lo, sp$hi) else to_num(tmp)
+        out[[paste0(v, suffix)]] <<- tmp
+        use <- c(use, paste0(v, suffix))
+      }
+    }
+    use
+  }
+  
+  econ_use <- make_block(econ_lr_specs, "_lrE")
+  cult_use <- make_block(cult_lr_specs, "_lrC")
+  self_use <- make_block(self_lr_specs, "_lrS")
+  
+  lr_econ_score <- if (length(econ_use)) {
+    Z <- as.data.frame(lapply(out[econ_use], zstd)); rowMeans(Z, na.rm = TRUE)
+  } else rep(NA_real_, n)
+  
+  lr_cult_score <- if (length(cult_use)) {
+    Z <- as.data.frame(lapply(out[cult_use], zstd)); rowMeans(Z, na.rm = TRUE)
+  } else rep(NA_real_, n)
+  
+  lr_all_use <- c(econ_use, cult_use, self_use)
+  econ_lr_score <- if (length(lr_all_use)) {
+    Z <- as.data.frame(lapply(out[lr_all_use], zstd)); rowMeans(Z, na.rm = TRUE)
+  } else rep(NA_real_, n)
+  
+  tibble(
+    wknr             = to_num(out$wknr),
+    a1_or_partei     = to_num(out$partei),
+    anti_elite_score = as.numeric(anti_elite_score),
+    econ_lr_score    = as.numeric(econ_lr_score),
+    lr_econ_score    = as.numeric(lr_econ_score),
+    lr_cult_score    = as.numeric(lr_cult_score),
+    bundesland       = to_num(out$bundesland)
+  ) %>% filter(!is.na(wknr))
+}
+
+compute_scores_2017 <- function(dat) {
+  names(dat) <- tolower(names(dat))
+  if (!"wknr" %in% names(dat))   stop("2017: 'wknr' missing")
+  if (!"partei" %in% names(dat)) stop("2017: 'partei' missing")
+  
+  out <- dat
+  n <- nrow(out)
+  
+  elite_specs <- list(
+    list(var="d6a", rev=FALSE, lo=1, hi=5),
+    list(var="d6b", rev=FALSE, lo=1, hi=5),
+    list(var="d6c", rev=FALSE, lo=1, hi=5),
+    list(var="d6g", rev=FALSE, lo=1, hi=5),
+    list(var="d6h", rev=TRUE,  lo=1, hi=5),
+    list(var="d6f", rev=TRUE,  lo=1, hi=5),
+    list(var="c20", rev=FALSE, lo=1, hi=4)
+  )
+  
+  elite_use <- character(0)
+  for (sp in elite_specs) {
+    v <- sp$var
+    if (v %in% names(out)) {
+      tmp <- validate_range(out[[v]], sp$lo, sp$hi)
+      tmp <- if (sp$rev) rev_scale(tmp, sp$lo, sp$hi) else to_num(tmp)
+      out[[paste0(v,"_ae")]] <- tmp
+      elite_use <- c(elite_use, paste0(v,"_ae"))
+    }
+  }
+  
+  anti_elite_score <- if (length(elite_use)) {
+    Z <- as.data.frame(lapply(out[elite_use], zstd))
+    rowMeans(Z, na.rm = TRUE)
+  } else rep(NA_real_, n)
+  
+  econ_lr_specs <- list(
+    list(var="c2b",  rev=TRUE,  lo=1, hi=5),
+    list(var="c2h",  rev=FALSE, lo=1, hi=5),
+    list(var="c2g",  rev=FALSE, lo=1, hi=5)
+    #list(var="c18c", rev=TRUE,  lo=1, hi=5),
+    #list(var="c18h", rev=FALSE, lo=1, hi=5)
+  )
+  
+  cult_lr_specs <- list(
+    list(var="c2d", rev=TRUE,  lo=1, hi=5),
+    list(var="c2i", rev=FALSE, lo=1, hi=5),
+    list(var="c2j", rev=FALSE, lo=1, hi=5),
+    list(var="c2a", rev=TRUE,  lo=1, hi=5)
+  )
+  
+  self_lr_specs <- list(
+    list(var="c3", rev=FALSE, lo=1, hi=11),
+    list(var="c6", rev=FALSE, lo=1, hi=11)
+  )
+  
+  make_block <- function(specs, suffix) {
+    use <- character(0)
+    for (sp in specs) {
+      v <- sp$var
+      if (v %in% names(out)) {
+        tmp <- validate_range(out[[v]], sp$lo, sp$hi)
+        tmp <- if (sp$rev) rev_scale(tmp, sp$lo, sp$hi) else to_num(tmp)
+        out[[paste0(v, suffix)]] <<- tmp
+        use <- c(use, paste0(v, suffix))
+      }
+    }
+    use
+  }
+  
+  econ_use <- make_block(econ_lr_specs, "_lrE")
+  cult_use <- make_block(cult_lr_specs, "_lrC")
+  self_use <- make_block(self_lr_specs, "_lrS")
+  
+  lr_econ_score <- if (length(econ_use)) {
+    Z <- as.data.frame(lapply(out[econ_use], zstd)); rowMeans(Z, na.rm = TRUE)
+  } else rep(NA_real_, n)
+  
+  lr_cult_score <- if (length(cult_use)) {
+    Z <- as.data.frame(lapply(out[cult_use], zstd)); rowMeans(Z, na.rm = TRUE)
+  } else rep(NA_real_, n)
+  
+  lr_all_use <- c(econ_use, cult_use, self_use)
+  econ_lr_score <- if (length(lr_all_use)) {
+    Z <- as.data.frame(lapply(out[lr_all_use], zstd)); rowMeans(Z, na.rm = TRUE)
+  } else rep(NA_real_, n)
+  
+  tibble(
+    wknr             = to_num(out$wknr),
+    a1_or_partei     = to_num(out$partei),
+    anti_elite_score = as.numeric(anti_elite_score),
+    econ_lr_score    = as.numeric(econ_lr_score),
+    lr_econ_score    = as.numeric(lr_econ_score),
+    lr_cult_score    = as.numeric(lr_cult_score)
+  ) %>% filter(!is.na(wknr))
+}
+
+compute_scores_2021 <- function(dat) {
+  names(dat) <- tolower(names(dat))
+  if (!"wknr" %in% names(dat) && !"wkname" %in% names(dat)) stop("2021: 'wknr' or 'wkname' missing")
+  if (!"partei" %in% names(dat)) stop("2021: 'partei' missing")
+  
+  out <- dat
+  n <- nrow(out)
+  
+  elite_specs <- list(
+    list(var="d7a", rev=TRUE,  lo=1, hi=5),
+    list(var="d7b", rev=TRUE,  lo=1, hi=5),
+    list(var="d7c", rev=TRUE,  lo=1, hi=5),
+    list(var="d7g", rev=TRUE,  lo=1, hi=5),
+    list(var="d7h", rev=FALSE, lo=1, hi=5),
+    list(var="d7f", rev=FALSE, lo=1, hi=5),
+    list(var="c23", rev=FALSE, lo=1, hi=4)
+  )
+  
+  elite_use <- character(0)
+  for (sp in elite_specs) {
+    v <- sp$var
+    if (v %in% names(out)) {
+      tmp <- validate_range(out[[v]], sp$lo, sp$hi)
+      tmp <- if (sp$rev) rev_scale(tmp, sp$lo, sp$hi) else to_num(tmp)
+      out[[paste0(v, "_ae")]] <- tmp
+      elite_use <- c(elite_use, paste0(v, "_ae"))
+    }
+  }
+  
+  anti_elite_score <- if (length(elite_use)) {
+    Z <- as.data.frame(lapply(out[elite_use], zstd)); rowMeans(Z, na.rm = TRUE)
+  } else rep(NA_real_, n)
+  
+  econ_lr_specs <- list(
+    list(var="c2b", rev=FALSE, lo=1, hi=5),
+    list(var="c2h", rev=TRUE,  lo=1, hi=5),
+    list(var="c2g", rev=TRUE,  lo=1, hi=5)
+  )
+  
+  cult_lr_specs <- list(
+    list(var="c2d", rev=TRUE,  lo=1, hi=5),
+    list(var="c2i", rev=TRUE,  lo=1, hi=5),
+    list(var="c2j", rev=TRUE,  lo=1, hi=5),
+    list(var="c2a", rev=FALSE, lo=1, hi=5)
+  )
+  
+  self_lr_specs <- list(
+    list(var="c5",  rev=FALSE, lo=1, hi=11),
+    list(var="c11", rev=TRUE,  lo=1, hi=11),
+    list(var="c8",  rev=FALSE, lo=1, hi=11)
+  )
+  
+  make_block <- function(specs, suffix) {
+    use <- character(0)
+    for (sp in specs) {
+      v <- sp$var
+      if (v %in% names(out)) {
+        tmp <- validate_range(out[[v]], sp$lo, sp$hi)
+        tmp <- if (sp$rev) rev_scale(tmp, sp$lo, sp$hi) else to_num(tmp)
+        out[[paste0(v, suffix)]] <<- tmp
+        use <- c(use, paste0(v, suffix))
+      }
+    }
+    use
+  }
+  
+  econ_use <- make_block(econ_lr_specs, "_lrE")
+  cult_use <- make_block(cult_lr_specs, "_lrC")
+  self_use <- make_block(self_lr_specs, "_lrS")
+  
+  lr_econ_score <- if (length(econ_use)) {
+    Z <- as.data.frame(lapply(out[econ_use], zstd)); rowMeans(Z, na.rm = TRUE)
+  } else rep(NA_real_, n)
+  
+  lr_cult_score <- if (length(cult_use)) {
+    Z <- as.data.frame(lapply(out[cult_use], zstd)); rowMeans(Z, na.rm = TRUE)
+  } else rep(NA_real_, n)
+  
+  lr_all_use <- c(econ_use, cult_use, self_use)
+  econ_lr_score <- if (length(lr_all_use)) {
+    Z <- as.data.frame(lapply(out[lr_all_use], zstd)); rowMeans(Z, na.rm = TRUE)
+  } else rep(NA_real_, n)
+  
+  tibble(
+    wknr             = to_num(if ("wknr" %in% names(out)) out$wknr else out$wkname),
+    a1_or_partei     = to_num(out$partei),
+    anti_elite_score = as.numeric(anti_elite_score),
+    econ_lr_score    = as.numeric(econ_lr_score),
+    lr_econ_score    = as.numeric(lr_econ_score),
+    lr_cult_score    = as.numeric(lr_cult_score),
+    bula             = to_num(out$bula)
+  ) %>% filter(!is.na(wknr))
+}
+
+# ============================================================
+# 3) Score + attach party labels
+# ============================================================
+attach_party <- function(scored_df) {
+  scored_df %>%
+    left_join(party_lut_codes, by = c("a1_or_partei" = "orig")) %>%
+    mutate(party = factor(party_id, levels = names(party_labels), labels = party_labels)) %>%
+    filter(!is.na(party))
+}
+
+cand13_scored_full <- attach_party(compute_scores_2013(cand13))
+cand17_scored_full <- attach_party(compute_scores_2017(cand17))
+cand21_scored_full <- attach_party(compute_scores_2021(cand21))
+
+# ============================================================
+# 4) Correlations DF (overall + within party)
+# ============================================================
+corr_block <- function(df, year_label) {
+  overall <- tibble(
+    year  = year_label,
+    level = "overall",
+    party = "All",
+    corr_econ_cult = cor(df$lr_econ_score, df$lr_cult_score, use = "complete.obs"),
+    corr_econ_lr   = cor(df$lr_econ_score, df$econ_lr_score, use = "complete.obs"),
+    corr_cult_lr   = cor(df$lr_cult_score, df$econ_lr_score, use = "complete.obs")
+  )
+  
+  by_party <- df %>%
+    group_by(party) %>%
+    summarise(
+      year  = year_label,
+      level = "within_party",
+      corr_econ_cult = cor(lr_econ_score, lr_cult_score, use = "complete.obs"),
+      corr_econ_lr   = cor(lr_econ_score, econ_lr_score, use = "complete.obs"),
+      corr_cult_lr   = cor(lr_cult_score, econ_lr_score, use = "complete.obs"),
+      .groups = "drop"
+    ) %>%
+    mutate(party = as.character(party))
+  
+  bind_rows(overall, by_party)
+}
+
+corr_df <- bind_rows(
+  corr_block(cand13_scored_full, "2013"),
+  corr_block(cand17_scored_full, "2017"),
+  corr_block(cand21_scored_full, "2021")
+) %>% mutate(year = as.numeric(year))
+
+# ============================================================
+# 5) SD DF (overall + within party)
+#    SD of each score within year (and within party)
+# ============================================================
+sd_block <- function(df, year_label) {
+  overall <- tibble(
+    year  = year_label,
+    level = "overall",
+    party = "All",
+    sd_lr      = sd(df$econ_lr_score, na.rm = TRUE),
+    sd_lr_econ = sd(df$lr_econ_score, na.rm = TRUE),
+    sd_lr_cult = sd(df$lr_cult_score, na.rm = TRUE),
+    sd_ae      = sd(df$anti_elite_score, na.rm = TRUE)
+  )
+  
+  by_party <- df %>%
+    group_by(party) %>%
+    summarise(
+      year  = year_label,
+      level = "within_party",
+      sd_lr      = sd(econ_lr_score, na.rm = TRUE),
+      sd_lr_econ = sd(lr_econ_score, na.rm = TRUE),
+      sd_lr_cult = sd(lr_cult_score, na.rm = TRUE),
+      sd_ae      = sd(anti_elite_score, na.rm = TRUE),
+      .groups = "drop"
+    ) %>%
+    mutate(party = as.character(party))
+  
+  bind_rows(overall, by_party)
+}
+
+sd_df <- bind_rows(
+  sd_block(cand13_scored_full, "2013"),
+  sd_block(cand17_scored_full, "2017"),
+  sd_block(cand21_scored_full, "2021")
+) %>% mutate(year = as.numeric(year))
+
+# ============================================================
+# 6) Your existing correlation plots (kept) + saving
+# ============================================================
+plot_corr_long <- corr_df %>%
+  pivot_longer(
+    cols = c(corr_econ_cult, corr_econ_lr, corr_cult_lr),
+    names_to = "measure",
+    values_to = "corr"
+  ) %>%
+  mutate(
+    measure = recode(
+      measure,
+      corr_econ_cult = "Corr(Econ, Culture)",
+      corr_econ_lr   = "Corr(Econ, LR)",
+      corr_cult_lr   = "Corr(Culture, LR)"
+    )
+  )
+
+# (A) overall correlations
+p_overall <- plot_corr_long %>%
+  filter(level == "overall") %>%
+  ggplot(aes(x = year, y = corr, group = measure)) +
+  geom_hline(yintercept = 0, linewidth = 0.3, linetype = "dashed") +
+  geom_line(linewidth = 1.0) +
+  geom_point(size = 2.6) +
+  facet_wrap(~ measure, nrow = 1) +
+  scale_x_continuous(breaks = sort(unique(plot_corr_long$year))) +
+  coord_cartesian(ylim = c(-1, 1)) +
+  labs(x = NULL, y = "Correlation") +
+  theme_minimal(base_size = 16) +
+  theme(panel.grid.minor = element_blank(),
+        strip.text = element_text(face = "bold"))
+ggsave("corr_overall_by_measure.png", p_overall, width = 10, height = 3.5, dpi = 300)
+
+# (B) within-party correlations (facet by party, one line per measure)
+p_within_party <- plot_corr_long %>%
+  filter(level == "within_party") %>%
+  ggplot(aes(x = year, y = corr, group = measure)) +
+  geom_hline(yintercept = 0, linewidth = 0.3, linetype = "dashed") +
+  geom_line(linewidth = 0.9) +
+  geom_point(size = 2.2) +
+  facet_wrap(~ party, ncol = 3) +
+  scale_x_continuous(breaks = sort(unique(plot_corr_long$year))) +
+  coord_cartesian(ylim = c(-1, 1)) +
+  labs(x = NULL, y = "Correlation") +
+  theme_minimal(base_size = 16) +
+  theme(panel.grid.minor = element_blank(),
+        strip.text = element_text(face = "bold"))
+ggsave("corr_within_party_by_measure.png", p_within_party, width = 10, height = 6, dpi = 300)
+
+# (C) three separate correlation plots with party colors
+plot_corr_party <- plot_corr_long %>%
+  filter(level == "within_party") %>%
+  mutate(party = as.character(party))
+
+make_corr_plot <- function(meas_name, fname, ylim = c(-1, 1)) {
+  dfm <- plot_corr_party %>% filter(measure == meas_name)
+  p <- ggplot(dfm, aes(x = year, y = corr, color = party, group = party)) +
+    geom_hline(yintercept = 0, linewidth = 0.3, linetype = "dashed") +
+    geom_line(linewidth = 1.0) +
+    geom_point(size = 2.4) +
+    scale_x_continuous(breaks = sort(unique(dfm$year))) +
+    scale_color_manual(values = party_colors, name = NULL) +
+    coord_cartesian(ylim = ylim) +
+    labs(x = NULL, y = "Correlation", title = meas_name) +
+    theme_minimal(base_size = 16) +
+    theme(panel.grid.minor = element_blank(),
+          plot.title = element_text(face = "bold"),
+          legend.position = "right")
+  ggsave(fname, p, width = 8.5, height = 4.5, dpi = 300)
+  p
+}
+
+p_corr_ec_cult <- make_corr_plot("Corr(Econ, Culture)", "corr_party_econ_vs_cult.png", ylim = c(-1, 1))
+p_corr_ec_lr   <- make_corr_plot("Corr(Econ, LR)",      "corr_party_econ_vs_lr.png",   ylim = c(-1, 1))
+p_corr_cu_lr   <- make_corr_plot("Corr(Culture, LR)",   "corr_party_cult_vs_lr.png",   ylim = c(-1, 1))
+
+# (D) difference corr_econ_lr - corr_cult_lr by party
+diff_df <- corr_df %>%
+  filter(level == "within_party") %>%
+  mutate(
+    party = as.character(party),
+    diff_econlr_minus_cultlr = corr_econ_lr - corr_cult_lr
+  )
+
+p_diff <- ggplot(diff_df, aes(x = year, y = diff_econlr_minus_cultlr, color = party, group = party)) +
+  geom_hline(yintercept = 0, linewidth = 0.3, linetype = "dashed") +
+  geom_line(linewidth = 1.0) +
+  geom_point(size = 2.4) +
+  scale_x_continuous(breaks = sort(unique(diff_df$year))) +
+  scale_color_manual(values = party_colors, name = NULL) +
+  labs(x = NULL, y = "Corr(Econ, LR) − Corr(Culture, LR)",
+       title = "Difference in correlation with overall LR") +
+  theme_minimal(base_size = 16) +
+  theme(panel.grid.minor = element_blank(),
+        plot.title = element_text(face = "bold"),
+        legend.position = "right")
+ggsave("corr_party_diff_econlr_minus_cultlr.png", p_diff, width = 8.5, height = 4.5, dpi = 300)
+
+# ============================================================
+# 7) NEW: SD plots
+#    - overall SD by measure over time (facet)
+#    - within-party SD by measure over time (facet by party)
+#    - three separate SD plots per measure with party colors
+# ============================================================
+
+sd_long <- sd_df %>%
+  pivot_longer(
+    cols = c(sd_lr, sd_lr_econ, sd_lr_cult, sd_ae),
+    names_to = "measure",
+    values_to = "sd"
+  ) %>%
+  mutate(
+    measure = recode(
+      measure,
+      sd_lr      = "SD(LR overall)",
+      sd_lr_econ = "SD(LR econ)",
+      sd_lr_cult = "SD(LR culture)",
+      sd_ae      = "SD(Anti-elite)"
+    )
+  )
+
+# (A) overall: one panel per SD measure
+p_sd_overall <- sd_long %>%
+  filter(level == "overall") %>%
+  ggplot(aes(x = year, y = sd, group = measure)) +
+  geom_line(linewidth = 1.0) +
+  geom_point(size = 2.6) +
+  facet_wrap(~ measure, nrow = 1, scales = "free_y") +
+  scale_x_continuous(breaks = sort(unique(sd_long$year))) +
+  labs(x = NULL, y = "Standard deviation") +
+  theme_minimal(base_size = 16) +
+  theme(panel.grid.minor = element_blank(),
+        strip.text = element_text(face = "bold"))
+ggsave("sd_overall_by_measure.png", p_sd_overall, width = 11, height = 3.5, dpi = 300)
+
+# (B) within-party: facet by party, lines for measures
+p_sd_within_party <- sd_long %>%
+  filter(level == "within_party") %>%
+  ggplot(aes(x = year, y = sd, group = measure)) +
+  geom_line(linewidth = 0.9) +
+  geom_point(size = 2.2) +
+  facet_wrap(~ party, ncol = 3, scales = "free_y") +
+  scale_x_continuous(breaks = sort(unique(sd_long$year))) +
+  labs(x = NULL, y = "Standard deviation") +
+  theme_minimal(base_size = 16) +
+  theme(panel.grid.minor = element_blank(),
+        strip.text = element_text(face = "bold"))
+ggsave("sd_within_party_by_measure.png", p_sd_within_party, width = 11, height = 6.5, dpi = 300)
+
+# (C) three separate SD plots, all parties together (each party colored)
+sd_party_long <- sd_long %>%
+  filter(level == "within_party") %>%
+  mutate(party = as.character(party))
+
+make_sd_plot <- function(meas_name, fname) {
+  dfm <- sd_party_long %>% filter(measure == meas_name)
+  p <- ggplot(dfm, aes(x = year, y = sd, color = party, group = party)) +
+    geom_line(linewidth = 1.0) +
+    geom_point(size = 2.4) +
+    scale_x_continuous(breaks = sort(unique(dfm$year))) +
+    scale_color_manual(values = party_colors, name = NULL) +
+    labs(x = NULL, y = "Standard deviation", title = meas_name) +
+    theme_minimal(base_size = 16) +
+    theme(panel.grid.minor = element_blank(),
+          plot.title = element_text(face = "bold"),
+          legend.position = "right")
+  ggsave(fname, p, width = 8.5, height = 4.5, dpi = 300)
+  p
+}
+
+p_sd_lr      <- make_sd_plot("SD(LR overall)", "sd_party_lr_overall.png")
+p_sd_lr_econ <- make_sd_plot("SD(LR econ)",    "sd_party_lr_econ.png")
+p_sd_lr_cult <- make_sd_plot("SD(LR culture)", "sd_party_lr_culture.png")
+p_sd_ae      <- make_sd_plot("SD(Anti-elite)", "sd_party_anti_elite.png")
+
+# Show a couple in the viewer
+p_sd_overall
+p_sd_lr

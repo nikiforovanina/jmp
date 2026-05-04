@@ -1,0 +1,404 @@
+2 Verzeichnisse
+2.3 Alphabetisches Verzeichnis der Wahlbewerber
+
+Bewerber
+Name, Vorname(n)
+Geburtsjahr
+Partei
+im
+Wahlkreis
+auf Landesliste
+Land
+Platz
+Metzner, Helmut
+1968
+Meurer, Klaus
+1961
+FDP
+GRÜNE
+083
+BE
+004
+199
+Meusel, Stephan Hans-Willy
+1952
+AfD
+TH
+004
+Meusel, Torsten
+1964
+pro Deutschland
+BB
+006
+Meuser, André
+1978
+PARTEI DER VERNUNFT
+RP
+002
+Meyenburg, Lorenz Volker
+1983
+AfD
+NW
+039
+Meyer, Barbara
+1984
+GRÜNE
+296
+SL
+003
+Meyer, Barbara
+1978
+MLPD
+HE
+004
+Meyer, Bert
+Meyer, Christian
+Meyer, Dr. Jürgen
+Meyer, Gerd
+Meyer, Hans-Jakob
+Meyer, Heike
+1975
+GRÜNE
+164
+SN
+012
+1962
+FDP
+266
+1957
+FREIE WÄHLER
+BW
+020
+1947
+REP
+BY
+038
+1964
+CDU
+RP
+031
+1962
+CDU
+HE
+023
+Meyer, Ingo
+1978
+Anderer KWV
+142
+Meyer, Jens Gerd
+1957
+SPD
+SH
+015
+Meyer, Leona
+1987
+BüSo
+BW
+002
+Meyer, Maria
+1954
+MLPD
+SH
+001
+Meyer, Rolf Karl Heinrich
+1941
+FDP
+HE
+021
+Meyer, Stefan Franz
+1984
+CSU
+BY
+054
+Meyer, Ute
+1967
+FDP
+SL
+010
+Meyer-Kainer, Marita
+1954
+CDU
+HH
+007
+Michaelis, Axel
+Michaelis, Dirk
+1965
+NPD
+242
+BY
+006
+1978
+FDP
+049
+Michalak, Ursula
+1952
+CDU
+SH
+019
+Michalk, Maria Ludwiga
+1949
+CDU
+156
+SN
+003
+Michelbach, Hans
+1949
+CSU
+238
+BY
+014
+Michels, Martin Alexander
+1979
+DIE LINKE
+027
+NI
+006
+Michlbauer, Matthäus Josef
+1966
+BüSo
+BY
+012
+Middelberg, Dr. Mathias
+1964
+CDU
+039
+NI
+006
+Miersch, Dr. Matthias
+1968
+SPD
+047
+NI
+011
+Mieruch, Mario
+Mieth, Matthias
+Mifka, Dr. Kai
+Mihalic, Irene
+Mikolajtzyk, Manuel
+1975
+AfD
+128
+1981
+PBC
+NI
+006
+1971
+FDP
+205
+RP
+008
+1976
+GRÜNE
+123
+NW
+007
+1982
+NPD
+120
+Mildenberger, Christian
+1984
+CDU
+BW
+030
+Mindrup, Klaus
+1964
+SPD
+076
+BE
+004
+Mini, Walter
+1952
+DIE LINKE
+223
+Minte, Sefika
+1980
+DIE LINKE
+NW
+024
+Miosga, Richard Franz
+1944
+NPD
+075
+Mirow, Sahra
+1984
+DIE LINKE
+274
+BW
+009
+Misch, Thomas Walter Friedrich
+1957
+FREIE WÄHLER
+011
+SH
+002
+Mischau, Gertrud Evmarie
+1958
+MLPD
+BY
+013
+Mischau, Klaus
+1961
+MLPD
+BY
+009
+Misirlioglu, Ismet
+1966
+BIG
+083
+BE
+001
+Mißfelder, Philipp
+1979
+CDU
+121
+NW
+014
+Mittag, Susanne
+1958
+SPD
+028
+NI
+004
+Mittelstädt, Andreas
+1987
+GRÜNE
+087
+NW
+030
+Mittelstein, Mona Isabell
+1984
+DIE LINKE
+SH
+009
+Mnich, Matthias
+1971
+DIE LINKE
+065
+BB
+010
+Moch, Torsten
+1975
+CDU
+BW
+053
+Moczarski, Martin
+1979
+PARTEI DER VERNUNFT
+NW
+003
+Möbius, Dr. Gert Walter
+1962
+FREIE WÄHLER
+ST
+012
+Möhring, Comelia Ilse
+1960
+DIE LINKE
+007
+SH
+001
+Möll, Volker
+1964
+GRÜNE
+051
+NI
+018
+Möller, Dirk
+1991
+SPD
+SH
+017
+Möller, Felix
+1986
+GRÜNE
+187
+HE
+024
+Möller, Lüder
+Möller, Monique
+Möller, Wolfgang
+Möring, Karsten
+1949
+MLPD
+SH
+002
+1982
+NPD
+TH
+010
+1957
+NPD
+020
+HH
+005
+1949
+CDU
+093
+NW
+046
+Mößner, Elias
+1983
+AfD
+BW
+028
+Mohammed, Furat
+1989
+FREIE WÄHLER
+075
+Mohs, Christoph
+1971
+BüSo
+BW
+004
+Mohs, Hubertus
+1939
+BüSo
+258
+BW
+003
+Molitor, Carsten
+1975
+Tierschutzpartei
+NI
+003
+Molitor, Gabriele
+1962
+FDP
+092
+NW
+011
+Molnar, Brigitte
+1952
+DIE VIOLETTEN
+BY
+024
+Monstadt, Dietrich
+1957
+CDU
+012
+MV
+004
+Montag, Jerzy
+1947
+GRÜNE
+220
+BY
+016
+Morassi, Marion
+1963
+DIE LINKE
+199
+Morgenroth, Jan
+1975
+NPD
+193
+TH
+005
+Morgenstern, Christopher
+1983
+PIRATEN
+BY
+030
+Informationen des Bundeswahlleiters,
+311
+Bundestagswahl 2013, Sonderheft Wahlbewerber

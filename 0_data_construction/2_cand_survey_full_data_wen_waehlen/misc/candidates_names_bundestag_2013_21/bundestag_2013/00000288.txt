@@ -1,0 +1,381 @@
+2 Verzeichnisse
+2.3 Alphabetisches Verzeichnis der Wahlbewerber
+Bewerber
+Name, Vorname(n)
+INT
+Dreher, Stefan
+Dreiling, Steffen Richard
+Geburtsjahr
+Partei
+im
+Wahlkreis
+auf Landesliste niya
+Land
+Platz
+1955
+DIE LINKE
+261
+BW
+010
+1969
+FDP
+189
+TH
+003
+Dreischer, Dr. Artur
+Drenger, Markus
+Drephal, Rainer
+Dresenkamp, Dr. Dorothea
+1928
+Volksabstimmung
+BW
+001
+1987
+PIRATEN
+HE
+003
+1944
+FREIE WÄHLER
+182
+HE
+008
+1978
+FDP
+117
+Drewes, Hans Joachim
+1936
+Bündnis 21/RRP
+HB
+001
+Drexl, Richard
+1952
+FREIE WÄHLER
+Dreyer, Uwe Bernd
+1957
+REP
+Driesang, Dirk Klaus
+1964
+AfD
+Drobinski-Weiß, Elvira
+1951
+SPD
+284
+Dröge, Katharina
+1984
+GRÜNE
+095
+Drüner, Maxim
+1984
+Die PARTEI
+Drumm, Dr. Herbert
+1949
+CDU
+Ducke, Kai-Uwe
+1975
+BüSo
+165
+_ _ _ _ _ _ _
+BY
+006
+BB
+004
+BY
+034
+BW
+008
+NW
+009
+BE
+048
+RP
+024
+BE
+008
+Dürr, Horst Friedrich
+1942
+FREIE WÄHLER
+291
+BW
+016
+Dürre, Jörg Friedrich
+1970
+PIRATEN
+HH
+006
+Dürrwanger, Helmut
+1941
+REP
+252
+BY
+045
+Dullinger, Angelica
+1960
+SPD
+226
+BY
+026
+Dumberger, Andrea Brigitte
+1957
+MLPD
+BY
+005
+Dumberger, Klaus
+1964
+MLPD
+218
+BY
+001
+Durak, Bekir
+1959
+BIG
+BE
+010
+Durz, Hansjörg
+1971
+CSU
+253
+Dusper, Nina
+Duwe, Dr. Kurt Carlos
+1975
+MLPD
+SH
+004
+1951
+FDP
+023
+HH
+002
+Dyken, Volker
+1969
+PIRATEN
+264
+BW
+026
+E
+Ebeling, Bernd
+1966
+GRÜNE
+044
+Ebeling, Ralph Dieter
+1952
+pro Deutschland
+Eberhard, Klaus-Peter
+1962
+FDP
+008
+Eberl, Iris Maria
+1958
+CSU
+Ebert, Detlef
+1964
+FDP
+068
+Ebert, Harald
+1961
+PARTEI DER VERNUNFT
+Ebner, Harald
+1964
+GRÜNE
+268
+Ebner, Matthias
+1984
+Tierschutzpartei
+Ebser, Robin
+1980
+AfD
+085
+Eckard, Daniel Karl
+1938
+AfD
+Ecke, Nico Alexander
+1978
+PIRATEN
+023
+Eckenbach, Jutta
+1952
+CDU
+119
+Eckert van, René
+Eckert, Christian
+1987
+SPD
+1947
+BP
+역무​를 ​를 ​몇몇​의 ​모르
+​003
+SH
+007
+BY
+041
+ST
+005
+BY
+003
+BW
+008
+BW
+003
+NW
+016
+NW
+047
+BY
+050
+BY
+013
+Eckert, Florian
+1971
+GRÜNE
+233
+BY
+044
+Eckhardt, Hannelore
+1954
+SPD
+HE
+042
+Eckhoff, Anita Caroline
+1966
+Tierschutzpartei
+SH
+002
+Eckl, Horst Alexander Josef
+1970
+DIE VIOLETTEN
+BY
+021
+Eckstein, Dr. Carola
+1973
+Anderer KWV
+259
+Edathy, Sebastian
+1969
+SPD
+040
+017
+Edtmaier, Thomas
+1965
+DIE LINKE
+263
+BW
+012
+Egg, Karl Markus Matthias
+1963
+AfD
+076
+Eggelmann, Torsten
+1964
+GRÜNE
+033
+Eggers, Jürgen
+1957
+DIE LINKE
+045
+Egloff, Ingo
+1956
+SPD
+HH
+002
+Ehling, Janis
+1985
+DIE LINKE
+171
+HE
+008
+Ehnes, Hans-Joachim
+1956
+DIE LINKE
+242
+BY
+014
+Ehrenberg, Hans-Werner
+1952
+FDP
+147
+NW
+012
+Ehrhardt, Jutta Christine
+1973
+ÖDP
+230
+BY
+010
+Ehrhorn, Thomas Ludwig Walter
+1959
+AfD
+044
+Ehrich, Dr. Matthias
+1937
+AfD
+SH
+010
+Ehrmann, Siegmund
+1952
+SPD
+114
+NW
+050
+Ehses, Martina
+1960
+ÖDP
+RP
+019
+Ehses, Sabine
+Eibl, Dr. Franz
+1960
+ÖDP
+RP
+017
+1968
+AfD
+236
+BY
+004
+Eich, Thorsten
+1983
+FDP
+299
+SL
+004
+Eichert, Martin
+1965
+FREIE WÄHLER
+211
+RP
+005
+Eicker, Hermann Josef
+1949
+MLPD
+NW
+005
+Eickmeier, Andreas
+1954
+FDP
+134
+NW
+030
+Eidens, Matthias Maria
+1961
+Die PARTEI
+NW
+047
+Eifler, Andreas Stefan
+1955
+MLPD
+196
+TH
+001
+Eifler, Manuela Viola
+1957
+MLPD
+Eigenfeld, Ulrich
+1947
+NPD
+027
+르코
+​TH
+003
+_001
+Informationen des Bundeswahlleiters,
+Bundestagswahl 2013, Sonderheft Wahlbewerber
+286

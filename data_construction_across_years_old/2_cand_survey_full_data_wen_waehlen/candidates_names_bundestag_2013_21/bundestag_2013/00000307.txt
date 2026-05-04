@@ -1,0 +1,399 @@
+2 Verzeichnisse
+2.3 Alphabetisches Verzeichnis der Wahlbewerber
+
+Bewerber
+Name, Vorname(n)
+Geburtsjahr
+Partei
+im
+Wahlkreis
+auf Landesliste
+Land
+Platz
+Krien, Frank Hartmut
+1956
+NPD
+159
+Krikau, Briga Friederike
+1969
+AfD
+004
+SH
+019
+Krings, Dr. Günter
+1969
+CDU
+109
+NW
+024
+Krischer, Oliver
+1969
+GRÜNE
+090
+NW
+006
+Krischke-Ramaswamy, Dr. Mohan
+1953
+PIRATEN
+052
+Kröger, Andreas
+1982
+SPD
+NI
+041
+Krögner, Walter
+1963
+SPD
+BW
+038
+Krönauer, Manfred
+1974
+FDP
+219
+BY
+008
+Krötz, Martin
+1971
+DIE LINKE
+201
+Krogloth, Oliver
+1976
+PARTEI DER VERNUNFT
+BY
+012
+Krohlas, Sven
+1982
+PIRATEN
+BW
+002
+Krolzig, Sascha Marcel
+1987
+DIE RECHTE
+NW
+002
+Kronimus, Kilian
+1965
+ÖDP
+BW
+003
+Kronschnabel, Manuel
+1985
+CSU
+BY
+067
+Krossa, Lutz Heinrich
+1969
+Die PARTEI
+NW
+038
+Kruczkowski, Katarzyna Dorota
+1979
+BüSo
+119
+NW
+001
+Krüger, Dr. Hans-Ulrich
+1952
+SPD
+113
+NW
+021
+Krüger, Harald
+1957
+CDU
+HH
+008
+Krüger, Jacqueline
+1973
+FDP
+061
+BB
+003
+Krüger-Jacob, Jutta
+1963
+GRÜNE
+SL
+005
+Krüger-Leißner, Angelika
+1951
+SPD
+058
+BB
+006
+Krümmel, Gerd
+1951
+FREIE WÄHLER
+030
+Krützen, Klaus
+1968
+SPD
+108
+NW
+031
+Krumbachner, Alois
+1953
+BüSo
+BY
+013
+Krumpen, Horst
+1966
+DIE LINKE
+MV
+008
+Krumpholz, Jürgen Uwe
+1964
+pro Deutschland
+SN
+003
+Krumwiede, Agnes
+1977
+GRÜNE
+217
+BY
+011
+Krusche, Helge
+1965
+Die PARTEI
+NW
+020
+Kruse, Dr. Hans Jörn
+1948
+AfD
+021
+HH
+001
+Kruse, Rüdiger
+1961
+CDU
+020
+HH
+002
+Kubach, Walter
+1955
+DIE LINKE
+266
+Kubicki, Wolfgang
+1952
+FDP
+003
+SH
+001
+Kuchlbauer, Dr. Simon Franz Jakob
+1976
+AfD
+BY
+030
+Kuck, Feline Sabrina
+1988
+Die PARTEI
+077
+Kudla, Bettina Irene
+1962
+CDU
+152
+SN
+010
+Küffen, Dirk
+1980
+ÖDP
+NW
+011
+Kügle, Karl-Heinz
+1963
+NPD
+253
+Kühlthau, Phillipp
+Kühn, Christian
+Kühn, Dirk Alexander
+1988
+Die PARTEI
+HE
+014
+1979
+GRÜNE
+290
+BW
+006
+1974
+Die PARTEI
+NW
+037
+Kühn, Stephan
+1979
+GRÜNE
+160
+SN
+002
+Kühn-Mengel, Helga
+1947
+SPD
+092
+NW
+028
+Kühne, Dr. Roy
+1967
+CDU
+052
+NI
+022
+Kühne, Henner
+1959
+FREIE WÄHLER
+018
+Kühne, Steffen
+1981
+DIE LINKE
+062
+BB
+008
+Kühnel, Dr. Katharina Rosemarie
+1958
+PIRATEN
+BB
+005
+Künast, Renate Elly
+1955
+GRÜNE
+081
+BE
+001
+Kuenheim von, Kai-Gilg Volmar Georg
+1982
+AfD
+SN
+008
+Küppers, Thomas
+1976
+PIRATEN
+NW
+017
+Küsel-Ferber, Karin
+1966
+SPD
+RP
+018
+Kuessner, Andreas Philipp
+1973
+AfD
+MV
+005
+Kuhlmann, Lars
+1976
+CDU
+SH
+028
+Kuhn, Dr. Arnd
+1957
+GRÜNE
+098
+Kuhnert, Cornelia
+Kulikowsky, Ralf
+1961
+FDP
+070
+1961
+AfD
+SH
+020
+Kunert, Katrin
+1964
+DIE LINKE
+066
+ST
+003
+Kunkel, Willibert
+1950
+NPD
+088
+Kunkis-Becker, Cornelia
+1960
+GRÜNE
+286
+BW
+019
+Kunstein, Karl-Ludwig Georg Richard
+1951
+AfD
+HE
+020
+Kunz, Georg Bernd
+1953
+GRÜNE
+HE
+020
+Kunz, Silvia
+1990
+GRÜNE
+SN
+009
+Kunze, Christian
+1984
+PIRATEN
+074
+ST
+009
+Kunze, Sylvia
+1979
+SPD
+HE
+032
+Kunze, Volker
+1963
+PIRATEN
+222
+Kurth, Dr. Hartwig Werner Heins
+1950
+FREIE WÄHLER
+017
+MV
+008
+Kurth, Gunnar Günther
+1969
+SPD
+BB
+013
+Kurth, Markus
+1966
+GRÜNE
+142
+NW
+008
+Kurth, Patrick
+1976
+FDP
+191
+TH
+001
+Kurtz, Bernhard
+1956
+AfD
+SL
+006
+Kuschke, Dietmar, Oliver
+1967
+DIE LINKE
+231
+Kuske, Bernhard Christian
+Kuske, Monika
+Kutzer, Jörg
+Kuylkens, Patricia
+1990
+FDP
+TH
+008
+1957
+MLPD
+ST
+001
+1980
+GRÜNE
+092
+NW
+038
+1983
+Die PARTEI
+NW
+043
+Informationen des Bundeswahlleiters,
+305
+Bundestagswahl 2013, Sonderheft Wahlbewerber

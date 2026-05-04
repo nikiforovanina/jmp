@@ -1,0 +1,27 @@
+"state_id","state_name","year","east_west","group_key","group_pretty","region","party","abs_lower","abs_upper","baseline_mae","afd_group_tol","sc_tol"
+12,"Brandenburg",2013,"east","all","All groups (combined)","Right",6,0.024169921875,0.02734375,0.0105221356663815,0.3,0.3
+12,"Brandenburg",2013,"east","all","All groups (combined)","AntiEst",6,0.0333984375,0.0390625,0.0105221356663815,0.3,0.3
+13,"Mecklenburg-Vorpommern",2013,"east","all","All groups (combined)","Right",6,0.04541015625,0.046875,0.0144002033384163,0.3,0.3
+13,"Mecklenburg-Vorpommern",2013,"east","all","All groups (combined)","AntiEst",6,0.0123046875,0.015625,0.0144002033384163,0.3,0.3
+14,"Sachsen",2013,"east","all","All groups (combined)","Right",6,0.03935546875,0.046875,0.0109403246646321,0.3,0.3
+14,"Sachsen",2013,"east","all","All groups (combined)","AntiEst",6,0.0409423828125,0.05078125,0.0109403246646321,0.3,0.3
+15,"Sachsen-Anhalt",2013,"east","all","All groups (combined)","Right",6,0.025048828125,0.0390625,0.00671621608510735,0.3,0.3
+15,"Sachsen-Anhalt",2013,"east","all","All groups (combined)","AntiEst",6,0.00869140625,0.01953125,0.00671621608510735,0.3,0.3
+16,"Thüringen",2013,"east","all","All groups (combined)","Right",6,0.026611328125,0.03515625,0.0164750167417072,0.3,0.3
+16,"Thüringen",2013,"east","all","All groups (combined)","AntiEst",6,0.031494140625,0.05078125,0.0164750167417072,0.3,0.3
+1,"Schleswig-Holstein",2013,"west","all","All groups (combined)","Right",6,0.014501953125,0.02734375,0.0103260684004549,0.3,0.3
+1,"Schleswig-Holstein",2013,"west","all","All groups (combined)","AntiEst",6,0.015966796875,0.03515625,0.0103260684004549,0.3,0.3
+3,"Niedersachsen",2013,"west","all","All groups (combined)","Right",6,0.03046875,0.03125,0.00971645301943496,0.3,0.3
+3,"Niedersachsen",2013,"west","all","All groups (combined)","AntiEst",6,0.00771484375,0.01171875,0.00971645301943496,0.3,0.3
+5,"Nordrhein-Westfalen",2013,"west","all","All groups (combined)","Right",6,0.02294921875,0.0234375,0.00276507764841308,0.3,0.3
+5,"Nordrhein-Westfalen",2013,"west","all","All groups (combined)","AntiEst",6,0.01640625,0.015625,0.00276507764841308,0.3,0.3
+6,"Hessen",2013,"west","all","All groups (combined)","Right",6,0.0423828125,0.046875,0.00728835709958318,0.3,0.3
+6,"Hessen",2013,"west","all","All groups (combined)","AntiEst",6,0.00869140625,0.01953125,0.00728835709958318,0.3,0.3
+7,"Rheinland-Pfalz",2013,"west","all","All groups (combined)","Right",6,0.00458984375,0.0234375,0.0119989722487253,0.3,0.3
+7,"Rheinland-Pfalz",2013,"west","all","All groups (combined)","AntiEst",6,0.02724609375,0.046875,0.0119989722487253,0.3,0.3
+8,"Baden-Württemberg",2013,"west","all","All groups (combined)","Right",6,0.02724609375,0.046875,0.0101176862652705,0.3,0.3
+8,"Baden-Württemberg",2013,"west","all","All groups (combined)","AntiEst",6,0.00966796875,0.02734375,0.0101176862652705,0.3,0.3
+9,"Bayern",2013,"west","all","All groups (combined)","Right",6,0.00966796875,0.02734375,0.0085009178479402,0.3,0.3
+9,"Bayern",2013,"west","all","All groups (combined)","AntiEst",6,0.0186279296875,0.03515625,0.0085009178479402,0.3,0.3
+10,"Saarland",2013,"west","all","All groups (combined)","Right",6,0.0251953125,0.05078125,0.00397739619041359,0.3,0.3
+10,"Saarland",2013,"west","all","All groups (combined)","AntiEst",6,0,0.05078125,0.00397739619041359,0.3,0.3

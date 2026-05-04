@@ -1,0 +1,387 @@
+2 Verzeichnisse
+2.3 Alphabetisches Verzeichnis der Wahlbewerber
+Name, Vorname(n)
+Geburtsjahr
+Petzsch, Dörter
+1985
+PIRATEN
+Peukert, Klaus
+Pfau, Janina
+Pfefferlein, Nicol
+1977
+PIRATEN
+1983
+DIE LINKE
+166
+Bewerber
+Partei
+im
+Wahlkreis
+auf Landesliste
+Land
+Platz
+MV
+004
+35
+SN
+008
+SN
+013
+1970
+GRÜNE
+191
+Pfeiffer, Dr. Joachim
+1967
+CDU
+264
+Pfeiffer, Günter
+1943
+RENTNER
+HH
+001
+Pfeiffer, Jens Folker
+1964
+AfD
+245
+Pfeiffer, Sibylle Luise Gisela
+1951
+CDU
+172
+Pfeil, Anke Kerstin
+1973
+FDP
+180
+뽀뽀
+​HE
+008
+HE
+006
+Pfeilsticker, Arne
+1948
+PIRATEN
+188
+Pfennig, Dr. Uwe
+1958
+GRÜNE
+188
+Pfeuffer, Barbara
+Pfirrmann, Karl-Heinz
+Pfisterer, Gerhard
+Pfleiderer, Walter
+Pflüger, Tobias
+1964
+GRÜNE
+023
+1945
+NPD
+273
+1948
+MLPD
+142
+1936
+Anderer KWV
+244
+1965
+DIE LINKE
+281
+Pflugradt, Jeannine
+1973
+SPD
+017
+Philipp, Christa
+1949
+BP
+219
+Philipper, Johannes Jürgen
+1987
+FDP
+130
+Pichl, Peter, Hartmut
+1980
+NPD
+Piechotta, Michael
+1980
+BüSo
+Pieczka, Andrea
+1967
+PIRATEN
+143
+Piehl, Jochen
+Piele, Frank
+1973
+ÖDP
+1965
+pro Deutschland
+Pieper, Comelia
+1959
+FDP
+072
+Piepgras, Birgitt
+1958
+PIRATEN
+007
+Pietraszek, Michael
+1948
+Nichtwähler
+Pietruska, Franz Alois
+1954
+FREIE WÄHLER
+212
+Pietsch, Britta
+1963
+DIE LINKE
+111
+Pilger, Detlev
+1955
+SPD
+200
+Piltz, Gisela
+1964
+FDP
+106
+Pinzon Becht, Mariana
+1982
+GRÜNE
+Pioch, Michael
+1979
+Tierschutzpartei
+Pitkamin, Sascha
+1969
+GRÜNE
+049
+Pitterle, Richard
+1959
+DIE LINKE
+260
+몇 ​금줄 ​주​를​쑥부​침 ​코​를 ​뜻릇​을 ​즐짐
+​004
+NW
+003
+BW
+006
+MV
+003
+014
+NW
+028
+011
+010
+013
+BW
+003
+001
+004
+NW
+002
+009
+008
+NW
+003
+BW
+031
+003
+BW
+004
+Pittrich, Andreas
+1980
+PIRATEN
+005
+Plantiko, Claus
+Plate, Hans
+1938
+Volksabstimmung
+098
+NW
+004
+1963
+GRÜNE
+250
+018
+Platsch, Angela
+Plaul, Yvonne
+Plötz, Rolf
+Ploetz, Yvonne
+1955
+GRÜNE
+BY
+043
+1977
+GRÜNE
+060
+003
+1940
+AfD
+099
+1984
+DIE LINKE
+299
+Plonske, Eva
+1976
+GRÜNE
+BE
+011
+Plonus, Frank
+1959
+AfD
+279
+Plorin, Gerd Günther
+1949
+AfD
+112
+Plum, André
+1992
+DIE RECHTE
+NW
+001
+Pöllath, Moritz Johann Martin
+1982
+FDP
+232
+BY
+033
+Pörtner, Benno
+1952
+DIE LINKE
+178
+HE
+012
+Pötzl, Ernst Karl
+1958
+PARTEI DER VERNUNFT
+BY
+010
+Pofalla, Ronald
+1959
+CDU
+112
+NW
+002
+Pohl, Dr. Christine
+1976
+SPD
+RP
+019
+Pohl, Matthias
+1980
+NPD
+128
+Pohl, Ulrike
+1971
+PIRATEN
+Pohlmann, Franz
+1956
+ŎDP
+Poland, Karl Friedrich Christoph
+1949
+CDU
+Polheim von, Jörg
+1959
+FDP
+099
+~WWW
+BE
+004
+NW
+019
+MV
+007
+NW
+014
+Pollock, Marvin Daniel
+1988
+PIRATEN
+HB
+001
+Pols, Eckhard
+1962
+CDU
+037
+NI
+016
+Polt, Matthias
+1980
+NPD
+226
+Polte, Michael
+1979
+PIRATEN
+056
+Polzer, Benedikt Manfred
+1982
+Die PARTEI
+180
+HE
+006
+Polzer-Storek, Alice Sarah
+1978
+GRÜNE
+057
+Pomper, Waltraud Maria
+1941
+DIE FRAUEN
+BY
+009
+Ponert, Maximilian Jochen
+1982
+FREIE WÄHLER
+NW
+008
+Ponik, Rainer
+1962
+ÖDP
+HH
+005
+Popeanga, Alina
+1982
+BüSo
+083
+BE
+010
+Popp, Andreas
+1983
+PIRATEN
+217
+BY
+003
+Porabka, Marius Julius
+1962
+pro Deutschland
+HE
+003
+Poschmann, Sabine
+1968
+SPD
+143
+NW
+022
+Poß, Joachim
+1948
+SPD
+123
+NW
+055
+Post, Achim
+1959
+SPD
+134
+NW
+009
+Post, Florian
+1981
+SPD
+218
+BY
+017
+Post, Hans-Ulrich
+1949
+AfD
+001
+SH
+012
+Pothin, Christian
+1966
+AfD
+028
+Informationen des Bundeswahlleiters,
+Bundestagswahl 2013, Sonderheft Wahlbewerber
+316
